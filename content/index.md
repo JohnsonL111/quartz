@@ -9,7 +9,7 @@ I am a curious software developer/amateur philosopher who enjoys learning about 
 Table of Contents:
 - [Posts](posts/) I have shared to the internet;
 - [Experience](about/experience.md) or summary of what I have done;
-- [Books](about/books.md) I have read and find interesting enough to write about;
+- [Books](about/books.md) I have read.
 - [Projects](about/projects.md) that I (and my teammates) have built;
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: Experience
 ---
 
 Experience consists of my recent education, work, organization experiences, and courses I have taken
@@ -16,6 +16,8 @@ Experience consists of my recent education, work, organization experiences, and 
 ## Technical Experience
 
 > **Software Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br>
+>***Tech Stack: NextJS, GraphQL, Typescript, Tailwind CSS, Contentful Headless CMS, Git*** <br>
+>
 > • Full-stack development on the Portal and Procedures Services Team. <br>
 
 > **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (Feb. 2022 - Apr. 2023) <br>
