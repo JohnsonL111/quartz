@@ -2,7 +2,7 @@
 title: Books
 ---
 
-Books are a great past-time. Though, I'm fairly on and off with reading. I hope to be more consistent in the future. Nowadays; however, when I do I read I tend to graviate towards books related to productivity, leadership, and self-book. In the past (aka in high school) I enjoyed reading mainly YA Fantasy novels.
+Books are a great past-time. Though, I'm fairly on and off with reading. I hope to be more consistent in the future. Nowadays; however, when I do I read I tend to gravitate towards books related to productivity, leadership, and self-book. In the past (aka in high school) I enjoyed reading mainly YA Fantasy novels.
 
 ## Current Bookshelf
 A collection of books that I am currently reading and determined to finish.
