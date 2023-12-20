@@ -8,7 +8,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Simon Fraser University** (Sept 2020 - Current) <br>
 > Bachelor of Science, Major in Computer Science, Minor in Philosophy <br>
-> **CGPA: 3.70/4.33** <br>
+> **CGPA: 3.71/4.33** <br>
 
 > **Britannia Secondary School** (Sep. 2015- May. 2020) <br>
 > IB Diploma Program <br>

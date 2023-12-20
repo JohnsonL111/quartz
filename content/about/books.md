@@ -8,7 +8,7 @@ Books are a great past-time. Though, I'm fairly on and off with reading. I hope 
 A collection of books that I am currently reading and determined to finish.
 
 • <a href="https://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big" target="_blank">How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life by Scott Adams </a> <br>
-• <a href="https://www.goodreads.com/review/list/67002801-johnson?shelf=currently-reading" target="_blank">The Way of Kings by Brandon Sanderson </a> <br>
+• <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings" target="_blank">The Way of Kings by Brandon Sanderson </a> <br>
 
 ## 2023/2022 Bookshelf
 Books that I started and may or may not have finished over the last 2 years.
