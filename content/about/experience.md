@@ -20,7 +20,7 @@ Experience consists of my recent education, work, organization experiences, and 
 >
 > • Full-stack development on the Portal and Procedures Services Team. <br>
 
-> **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (Feb. 2022 - Apr. 2023) <br>
+> **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br>
 >***Tech Stack: C#/.NET, Angular, NestJS, Typescript, Docker, Entity Framework (EF6), Firebase (Auth/Firestore), PostgreSQL, Git*** <br>
 >
 >• Volunteering Part-time in a team of 7 to migrate InvolveMINT's backend APIs from NestJS into C#/.NET and data access layer to EF6. <br>
