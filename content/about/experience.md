@@ -23,7 +23,7 @@ Experience consists of my recent education, work, organization experiences, and 
 > **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br>
 >***Tech Stack: C#/.NET, Angular, NestJS, Typescript, Docker, Entity Framework (EF6), Firebase (Auth/Firestore), PostgreSQL, Git*** <br>
 >
->• Volunteering Part-time in a team of 7 to migrate InvolveMINT's backend APIs from NestJS into C#/.NET and data access layer to EF6. <br>
+>• Volunteering Part-time in a team of 7 to migrate InvolveMINT's backend APIs from NestJS into C#/.NET and data access layer to EF6 from within an NX monorepo. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br>
 > ***Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle*** <br>  
