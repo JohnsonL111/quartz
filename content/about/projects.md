@@ -21,7 +21,7 @@ Stack: C#/.NET, Angular, NestJS, Typescript, Docker, Entity Framework (EF6), Fir
 
 ## WhereU@
 ![WhereU@](../posts/attachments/whereUAt.png)
-<center> *Mid-animation landing page* </center>
+<center> Mid-animation landing page </center> <br>
 
 Worked in a team of 4 during NWHacks 2023 to develop a full-stack web-application to fight against FOMO where users can subscribe to one another or a location and be notified when that user moves locations or when any user moves to a subscribed location. Inspired by snapchat's location tracking feature, but without the data collection.
 
