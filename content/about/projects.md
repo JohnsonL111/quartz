@@ -25,7 +25,7 @@ Stack: C#/.NET, Angular, NestJS, Typescript, Docker, Entity Framework (EF6), Fir
 
 Worked in a team of 4 during NWHacks 2023 to develop a full-stack web-application to fight against FOMO where users can subscribe to one another or a location and be notified when that user moves locations or when any user moves to a subscribed location. Inspired by snapchat's location tracking feature, but without the data collection.
 
-Stack: Java, Spring, React.js, CockroachDB, HTML, CSS, JavaScript, Twilio API, Axios, Postman
+Stack: Java, Spring Boot, React.js, CockroachDB, HTML, CSS, JavaScript, Twilio API, Axios, Postman
 
 <a target="_blank" href="https://github.com/JohnsonL111/where-u-at">GitHub</a>&emsp;
 <a target="_blank" href="https://devpost.com/software/whereu">DevPost</a>
@@ -78,9 +78,9 @@ Stack: Java, Android Studio, SharedPreferences, Git
 ## NutriNote
 ![NutriNote](../posts/attachments/consumableItem.png)
 
-A desktop app to manage the expiry dates of your refridgerator items through CRUD operations. Developed with a Swing GUI frontend and Spring RESTful backend. Utilizes Gson to serialize/deserialize POJO to Json Objects to seamlessly save/load item information respectively.
+A desktop app to manage the expiry dates of your refridgerator items through CRUD operations. Developed with a Swing GUI frontend and Spring Boot RESTful backend. Utilizes Gson to serialize/deserialize POJO to Json Objects to seamlessly save/load item information respectively.
 
-Stack: Java, Spring, Swing GUI, REST API, Gson, HTTP Client
+Stack: Java, Spring Boot, Swing GUI, REST API, Gson, HTTP Client
 
 <a target="_blank" href="https://github.com/JohnsonL111/nutri-note">GitHub</a>&emsp;
 
