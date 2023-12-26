@@ -4,7 +4,6 @@ tags: ["School"]
 ---
 
 ![FAS Deans Scholar Breakfast](../posts/attachments/fall2023_front.jpg)
-<center> FAS Deans Scholar Breakfast </center> <br>
 
 Oh boy, first post and it's for an absolutely crazy semester. Alright, *ahem*, let's do this.
 
