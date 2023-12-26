@@ -102,7 +102,7 @@ Reid I simply like because he's a very "common-sense" type of philosopher. In th
 
 ![Hume argument for no self](../posts/attachments/hume.png)
 
-I think <a href="https://www.youtube.com/watch?v=2THlBkg3EUU&list=LL&index=171" target="_blank">this video</a> breaks down how Reid tackles this argument better than I can. 
+I think <a href="https://www.youtube.com/watch?v=2THlBkg3EUU" target="_blank">this video</a> breaks down how Reid tackles this argument better than I can. 
 
 Anyways, this class was pretty enjoyable and my <a href="https://www.sfu.ca/philosophy/people/faculty/profiles/holly-andersen.html" target="_blank">professor's</a> passion for the subject was infectious so I think I made the right choice picking this over PHIL 201.
 
