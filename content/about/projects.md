@@ -12,7 +12,7 @@ Software projects that I've built/contributed to.
 ## InvolveMINT
 ![involveMINT](../posts/attachments/involvemint.png)
 
-As part of the <a target="_blank" href="https://www.developforgood.org/">Develop For Good</a> Winter 2024 cohort I am working in a team of 7 devs to migrate InvolveMINT's backend API functionality from NestJS into C#/.NET including the data access layer from TypeORM to Entity Framework. This way the non-profit cimproves site security and long term scalability by moving away from the sunsetted open source framework <a target="_blank" href="https://github.com/jczacharia/orcha">OrchaJS</a> that dominates the backend.
+As part of the <a target="_blank" href="https://www.developforgood.org/">Develop For Good</a> Winter 2024 cohort I am working in a team of 7 devs to migrate InvolveMINT's backend API functionality from NestJS into C#/.NET including the data access layer from TypeORM to Entity Framework. This way the non-profit improves site security and long term scalability by moving away from the sunsetted open source framework <a target="_blank" href="https://github.com/jczacharia/orcha">OrchaJS</a> that dominates the backend.
 
 Stack: C#/.NET, Angular, NestJS, Typescript, Docker, Entity Framework (EF6), Firebase (Auth/Firestore), PostgreSQL, Git
 
