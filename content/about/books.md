@@ -7,6 +7,7 @@ Books are a great past-time. Though, I'm fairly on and off with reading. I hope 
 ## Current Bookshelf
 A collection of books that I am currently reading and determined to finish.
 
+• <a href="https://www.goodreads.com/en/book/show/50520939" target="_blank">The Atlas Six by Olivia Blake </a> <br>
 • <a href="https://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big" target="_blank">How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life by Scott Adams </a> <br>
 • <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings" target="_blank">The Way of Kings by Brandon Sanderson </a> <br>
 
