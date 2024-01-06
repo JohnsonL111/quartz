@@ -5,7 +5,7 @@ tags: ["School"]
 
 ![FAS Deans Scholar Breakfast](../posts/attachments/fall2023_front.jpg)
 
-Oh boy, first post and it's for an absolutely crazy semester. Alright, *ahem*, let's do this.
+Oh boy, first post and it's for an absolutely crazy semester.
 
 After arriving back from the depths of my coop at <a href="https://powerex.com/" target="_blank">Powerex</a> trust me when I say that I was not looking forward to returning to school. Not only was I enjoying the free coffee and soft drinks at the companies downtown office ***a bit*** too much, but it's also a uniquely relaxing feeling to not have to worry about classes.
 
@@ -19,12 +19,14 @@ Along with seeking I also enrolled in four courses:
 
 ## The market shows its true colors
 
+This seeking semester was pretty rough. Though, I think I did alright considering the market conditions.
+
 Some rapid-fire stats for this seeking semester:
 - 91 applications
-- 4 OAs
+- 4 (automated) OAs
 - 7 interviews
 - 1 offer
-- 45 LC problems sprinkled through the semester
+- ~45 LC problems sprinkled through the semester (I did most of these during the break)
 
 I mainly applied to SWE/SDE roles and targeted medium/larger companies and/or companies with 4 month positions. This seeking semester was particularly rough due to market conditions.
 

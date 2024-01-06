@@ -41,6 +41,14 @@ Stack: ReactJS, AssemblyAI API, HTML, CSS, Javascript, Git
 <a target="_blank" href="https://sigmaio.netlify.app/">Site </a> &emsp;
 <a target="_blank" href="https://www.youtube.com/watch?v=9fAU0wKU-hQ">Demo</a>
 
+## BookWise
+![BookWise](../posts/attachments/books_list.png)
+Full-stack web app to track your book collection. Uses mongoose ORM to abstract DB operations. Features toggleable Table/Card view and alerts. More features to come :).
+
+Stack: Nodejs, Expressjs, MongoDB, Mongoose, ReactJs, Tailwind, Vite, Axios
+
+<a target="_blank" href="https://github.com/JohnsonL111/book-wise">GitHub</a>&emsp;
+
 ## FindMyPig
 ![FindMyPig](../posts/attachments/findMyPig.png)
 
