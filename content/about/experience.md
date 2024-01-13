@@ -19,6 +19,7 @@ Experience consists of my recent education, work, organization experiences, and 
 >***Tech Stack: NextJS, GraphQL, Typescript, Tailwind CSS, Contentful Headless CMS, Git*** <br>
 >
 > • Full-stack development on the Portal and Procedures Services Team. <br>
+> • Engineered web forms through the implementation of HTML, CSS, JavaScript, ASP/JSP, and Jenkins to facilitate seamless interactions for internal and external users.
 
 > **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br>
 >***Tech Stack: C#/.NET, Angular, NestJS, Typescript, Docker, Entity Framework (EF6), Firebase (Auth/Firestore), PostgreSQL, Git*** <br>
