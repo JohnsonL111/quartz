@@ -16,15 +16,15 @@ Experience consists of my recent education, work, organization experiences, and 
 ## Technical Experience
 
 > **Software Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br>
->***Tech Stack: NextJS, GraphQL, Typescript, Tailwind CSS, Contentful Headless CMS, Git*** <br>
+>***Tech Stack: NextJS, GraphQL, NodeJS, Typescript, Tailwind, Contentful Headless CMS, Git*** <br>
 >
 > • Full-stack development on the Portal and Procedures Services Team. <br>
 > • Engineered web forms through the implementation of HTML, CSS, JavaScript, ASP/JSP, and Jenkins to facilitate seamless interactions for internal and external users.
 
 > **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br>
->***Tech Stack: C#/.NET, Angular, NestJS, Typescript, Docker, Entity Framework (EF6), Firebase (Auth/Firestore), PostgreSQL, Git*** <br>
+>***Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git*** <br>
 >
->• Volunteering Part-time in a team of 7 to migrate InvolveMINT's backend APIs from NestJS into C#/.NET and data access layer to EF6 from within an NX monorepo. <br>
+>• Volunteering in a team to migrate InvolveMint's backend APIs/E2E API tests from OrchaJS monorepo to NestJS for security reasons. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br>
 > ***Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle*** <br>  
@@ -40,7 +40,7 @@ Experience consists of my recent education, work, organization experiences, and 
 >
 >• Fixed various front-end/back-end bugs on a C# ASP.NET MVC stack for Peloton’s core SaaS payments platform. <br>
 >• Redesigned UI components to increase user experience and accessibility using JavaScript/Typescript, HTML, Jquery, and CSS/SCSS. <br>
->• Kickstarted test automation suite for E2E UI tests using C#, Playwright, and MSTest from a previously manual-only testing env. <br>
+>• Kickstarted test automation suite for E2E UI tests using C#, Playwright, and MSTest from a previously manual-only UI testing env. <br>
 
 ## Non-Technical Experience
 > **Technology Sales Associate @ Staples** (July. 2020 - Oct. 2020) <br>
