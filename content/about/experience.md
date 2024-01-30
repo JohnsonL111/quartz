@@ -24,14 +24,14 @@ Experience consists of my recent education, work, organization experiences, and 
 > **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br>
 >***Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git*** <br>
 >
->• Volunteering in a team to migrate InvolveMint's backend APIs/E2E API tests from OrchaJS monorepo to NestJS for security reasons. <br>
+>• Volunteering in a team to migrate InvolveMint's backend APIs/E2E API tests from OrchaJS Nx monorepo to NestJS for security reasons. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br>
 > ***Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle*** <br>  
 >
->• Led development/deployment of various windows services using C#.NET, EF6, Selenium, Snowflake/MSSQL, and Teamcity for CI/CD functioning as real-time E2E JSON/XML/HTML/CSV scrapers to efficiently process large amounts of data into DBs for traders. <br>
+>• Led development/deployment of various windows services using C#.NET, EF6, Selenium, Snowflake/MSSQL, and Teamcity for CI/CD functioning as real-time E2E web page/API scrapers to efficiently process large amounts of data into DBs for traders <br>
 >• Developed a full-stack web app with React.js/C#.NET, DevExtreme UI components, EF6, MSSQL, and ASP.NET Web APIs to allow admins to publish notifications for analytics department (prev. done through slow desktop app); deployed via MSDeploy onto IIS web server. <br>
->• Optimized windows service tableau snapshots for an ASP.NET MVC analytics web portal using Selenium/Tableau API decreasing snowflake DB reads considerably and implemented seamless multi-threaded on-demand CRUD-based snapshots for admins. <br>
+>• Optimized historical tableau snapshot generation for an ASP.NET MVC analytics web portal using Selenium/Tableau API limiting snowflake DB reads considerably & implemented API endpoints supporting real-time CRUD-based snapshots for traders/admins. <br>
 >• Interfaced with traders to add UI features/optimize SQL for Excel Workbook VBA macros aggregating energy powerplant data. <br>
 >• Rewrote broken SSIS ETL pipeline modules into C#/.NET windows services to improve DX & recover ~2 years of lost/stale data. <br>
 
@@ -40,7 +40,7 @@ Experience consists of my recent education, work, organization experiences, and 
 >
 >• Resolved multiple front-end and back-end issues within the Peloton core SaaS payments platform, built on a C# ASP.NET MVC stack. <br>
 >• Enhanced user experience and accessibility by overhauling UI components, employing JavaScript, TypeScript, HTML, jQuery, and CSS/SCSS. <br>
->• Kickstarted test automation suite for E2E UI tests using C#, Playwright, and MSTest from a previously manual-only UI testing env. <br>
+>• Kickstarted test automation suite for E2E Integration UI tests using C#, Playwright, and MSTest from a previously manual-only UI testing env. <br>
 
 ## Non-Technical Experience
 > **Technology Sales Associate @ Staples** (July. 2020 - Oct. 2020) <br>
