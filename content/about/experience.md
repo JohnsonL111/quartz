@@ -16,10 +16,10 @@ Experience consists of my recent education, work, organization experiences, and 
 ## Technical Experience
 
 > **Software Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br>
->***Tech Stack: NextJS, GraphQL, NodeJS, Typescript, Tailwind, Contentful Headless CMS, Git*** <br>
+>***Tech Stack: NextJS, GraphQL, NodeJS, Typescript, Tailwind, Contentful, Git*** <br>
 >
 > • Full-stack development on the Portal and Procedures Services Team. <br>
-> • Support migration of ICBC.com from SharePoint to the cloud via Next.js, Typescript, GraphQL, Tailwind, Contentful, Elasticsearch. <br>
+> • Support migration of ICBC.com from SharePoint on prem to the cloud via Next.js, Typescript, GraphQL/Apollo, Tailwind, Contentful, Elasticsearch. <br>
 > • Engineered web forms through the implementation of HTML, CSS, JavaScript, ASP/JSP, and Jenkins to facilitate seamless interactions for internal and external users.
 
 > **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br>
