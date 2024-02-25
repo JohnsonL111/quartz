@@ -20,7 +20,7 @@ Experience consists of my recent education, work, organization experiences, and 
 >
 > • Full-stack development on the Portal and Procedures Services Team. <br>
 > • Support migration of ICBC.com from SharePoint on prem to the cloud via Next.js, Typescript, GraphQL/Apollo, Tailwind, Contentful, Elasticsearch. <br>
-> • Engineered web forms through the implementation of HTML, CSS, JavaScript, ASP/JSP, and Jenkins to facilitate seamless interactions for internal and external users.
+> • Maintained existing/developed net new web forms (HTML, CSS, JavaScript, ASP/JSP, and Jenkins) for internal/external clients
 
 > **Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br>
 >***Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git*** <br>
@@ -30,18 +30,17 @@ Experience consists of my recent education, work, organization experiences, and 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br>
 > ***Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle*** <br>  
 >
->• Led development/deployment of various windows services using C#.NET, EF6, Selenium, Snowflake/MSSQL, and Teamcity for CI/CD functioning as real-time E2E web page/API scrapers to efficiently process large amounts of data into DBs for traders <br>
->• Developed a full-stack web app with React.js/C#.NET, DevExtreme UI components, EF6, MSSQL, and ASP.NET Web APIs to allow admins to publish notifications for analytics department (prev. done through slow desktop app); deployed via MSDeploy onto IIS web server. <br>
->• Optimized historical tableau snapshot generation for an ASP.NET MVC analytics web portal using Selenium/Tableau API limiting snowflake DB reads considerably & implemented API endpoints supporting real-time CRUD-based snapshots for traders/admins. <br>
->• Interfaced with traders to add UI features/optimize SQL for Excel Workbook VBA macros aggregating energy powerplant data. <br>
->• Rewrote broken SSIS ETL pipeline modules into C#/.NET windows services to improve DX & recover ~2 years of lost/stale data. <br>
+>• Developed a proof-of-concept full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to publish and manage notifications, replacing a legacy WinForms desktop implementation. <br>
+>• Led development/deployment of various windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of data into DBs (snowflake/MSSQL) for trader consumption. <br>
+>• Identified and optimized historical tableau snapshot generation functionality for an analytics web portal (C#/ASP.NET MVC) by integrating Selenium/Tableau API eliminating unnecessary snowflake DB reads considerably. <br>
+>• Completely overhauled a complex legacy SSIS ETL pipeline into a C#/.NET Windows service after major external API/data source changes from V1 to V2: enhancing maintainability & recovering approximately 2 years of outdated energy data. <br>
 
 > **Software Engineer Intern @ Peloton Technologies** (May. 2022 – August. 2022) <br>
 >***Tech Stack: C#/.NET, ASP.NET MVC, HTML, CSS/SCSS, Javascript/TypeScript, Jquery, MSTest, Playwright, Git, Azure SQL Server*** <br>
 >
->• Resolved multiple front-end and back-end issues within the Peloton core SaaS payments platform, built on a C# ASP.NET MVC stack. <br>
+>• Resolved various full-stack bugs on a C#/ASP.NET MVC stack and developed/modified unit tests in MSTest to verify behavior. <br>
 >• Enhanced user experience and accessibility by overhauling UI components, employing JavaScript, TypeScript, HTML, jQuery, and CSS/SCSS. <br>
->• Kickstarted test automation suite for E2E Integration UI tests using C#, Playwright, and MSTest from a previously manual-only UI testing env. <br>
+>• Worked with manual QA to kickstart companies’ 1st test automation suite for E2E Integration UI tests using C#/Playwright. <br>
 
 ## Non-Technical Experience
 > **Technology Sales Associate @ Staples** (July. 2020 - Oct. 2020) <br>
