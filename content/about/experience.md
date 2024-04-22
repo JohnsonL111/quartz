@@ -30,7 +30,7 @@ Experience consists of my recent education, work, organization experiences, and 
 > • Verified correct behavior by writing E2E integration tests in Jest & updating a postman collection to document API changes. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
-> • Developed and maintained Excel VBA Macros to create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs.
+> • Developed and maintained Excel VBA Macros to create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs. <br>
 > • Developed a POC full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to publish and manage notifications, replacing a legacy WinForms desktop implementation. <br>
 > • Led development/deployment of various windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of data into DBs (snowflake/MSSQL) for trader consumption. <br>
 > • Identified and optimized historical tableau snapshot generation functionality for an analytics web portal (C#/ASP.NET MVC) by integrating Selenium/Tableau API eliminating unnecessary snowflake DB reads considerably. <br>
