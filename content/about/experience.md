@@ -16,22 +16,21 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful CMS, ASP/JSP, Jenkins_** <br>
 >
-> • Enhanced UI/UX by deploying fixes to front-end issues on client-facing web applications (NextJS/GraphQL stack) and updated UI snapshot tests to ensure 100% component coverage. <br>
-> • Developed a POC broker forms processing tool to automate metadata extraction/categorization by using Azure AI/ML methods. <br>
-> • Developed new/maintained old web forms in HTML, CSS, JavaScript, ASP (VBScript)/JSP (Jscript), and Jenkins for internal/external clients; leading novel integration of CAPTCHA/security processes to prevent spam on a suite of 100+ external forms. <br>
+> • Enhanced UI/UX by deploying fixes to front-end issues on client-facing web applications (NextJS, GraphQL, contentful) and updated UI snapshot tests to ensure 100% component coverage. <br>
+> • Developed web forms in HTML, CSS, JavaScript, ASP (VBScript)/JSP (Java), and Jenkins for internal/external clients; leading novel integration of CAPTCHA/security processes to prevent spam on a suite of 100+ external forms. <br>
 
 > **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Present) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, Weaviate, langchain_** <br>
 >
 > • Collaborated in a team of 7 to develop an AI chatbot to be integrated into immigration non-profit's website. <br>
 > • Implemented front-end fixes for chatbot and currenlty integrating backend workflow utilizing jsonl/Weaviate Vector DB for LLM tasks. <br>
 
-> **Backend Software Engineer @ Develop For Good (Winter 2024 Cohort)** (November 2023 - Present) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
+> **Backend Software Engineer @ Develop For Good (Winter 2023 Cohort)** (November 2023 - Present) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
 >
 > • Enhanced security by migrating changemaker REST API from unstable internal framework to NestJS for non-profits monorepo full-stack web application. <br>
 > • Verified correct behavior by writing E2E integration tests in Jest & updating a postman collection to document API changes. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
->
+> • Developed and maintained Excel VBA Macros to create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs.
 > • Developed a POC full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to publish and manage notifications, replacing a legacy WinForms desktop implementation. <br>
 > • Led development/deployment of various windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of data into DBs (snowflake/MSSQL) for trader consumption. <br>
 > • Identified and optimized historical tableau snapshot generation functionality for an analytics web portal (C#/ASP.NET MVC) by integrating Selenium/Tableau API eliminating unnecessary snowflake DB reads considerably. <br>
