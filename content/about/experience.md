@@ -14,10 +14,11 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful CMS, ASP/JSP, Jenkins_** <br>
+> **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
-> • Enhanced UI/UX by deploying fixes to front-end issues on client-facing web applications (NextJS, GraphQL, contentful) and updated UI snapshot tests to ensure 100% component coverage. <br>
+> • Enhanced UI/UX by delivering front-end fixes/features on ICBC.com (NextJS, Typescript, GraphQL, contentful) & investigated into log drain integration with splunk. <br>
 > • Developed web forms in HTML, CSS, JavaScript, ASP (VBScript)/JSP (Java), and Jenkins for internal/external clients; leading novel integration of CAPTCHA/security processes to prevent spam on a suite of 100+ external forms. <br>
+> • Won "Best Overall Project" in an internal hackathon by building a broker document chatbot utilizing Azure cloud services(AI doc intelligience/OpenAI/AI Search/Blobs) for classification + extraction workflow and web application with Python, Streamlit, and Flask. <br>
 
 > **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Present) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, Weaviate, langchain_** <br>
 >
