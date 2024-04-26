@@ -25,7 +25,7 @@ Experience consists of my recent education, work, organization experiences, and 
 > • Collaborated in a team of 7 to develop an AI chatbot to be integrated into immigration non-profit's website. <br>
 > • Implemented front-end fixes for chatbot and currenlty integrating backend workflow utilizing jsonl/Weaviate Vector DB for LLM tasks. <br>
 
-> **Backend Software Engineer @ Develop For Good (Winter 2023 Cohort)** (November 2023 - Present) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
+> **Backend Software Engineer @ Develop For Good (Winter 2023 Cohort)** (November 2023 - Feb 2024) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
 >
 > • Enhanced security by migrating changemaker REST API from unstable internal framework to NestJS for non-profits monorepo full-stack web application. <br>
 > • Verified correct behavior by writing E2E integration tests in Jest & updating a postman collection to document API changes. <br>
