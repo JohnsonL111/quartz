@@ -144,5 +144,5 @@ Experience consists of my recent education, work, organization experiences, and 
 
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/300/d100" target="_blank">CMPT 300 - Operating Systems I </a>
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/353/d100" target="_blank">CMPT 353 - Computational Data Science </a>
+- <a href="https://www.sfu.ca/outlines.html?2023/fall/cmpt/365/d100" target="_blank">CMPT 365 - Multimedia Systems </a>
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/phil/302/d100" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics </a>
-- <a href="https://www.sfu.ca/outlines.html?2024/summer/arch/101/ol01" target="_blank">ARCH 101 - Restructuring the Human Past </a>
