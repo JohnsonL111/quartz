@@ -14,21 +14,15 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
+> **Software Developer Intern @ Motorola Solutions** (Sept 2024) <br> **Tech Stack: TBD** <br>
+>
+> • Building and maintaining Developer Tools for hardware teams at Motorola - Avigilon (Video Security & Access Control Division) <br>
+
+> **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
 > • Enhanced UI/UX by delivering front-end fixes/features on ICBC.com (NextJS, Typescript, GraphQL, contentful) & investigated into log drain integration with splunk. <br>
 > • Developed web forms in HTML, CSS, JavaScript, ASP (VBScript)/JSP (Java), and Jenkins for internal/external clients; leading novel integration of CAPTCHA/security processes to prevent spam on a suite of 100+ external forms. <br>
 > • Won "Best Overall Project" in an internal hackathon by building a broker document chatbot utilizing Azure cloud services(AI doc intelligience/OpenAI/AI Search/Blobs) for classification + extraction workflow and web application with Python, Streamlit, and Flask. <br>
-
-> **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Present) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, Weaviate, langchain_** <br>
->
-> • Collaborated in a team of 7 to develop an AI chatbot to be integrated into immigration non-profit's website. <br>
-> • Implemented front-end fixes for chatbot and currenlty integrating backend workflow utilizing jsonl/Weaviate Vector DB for LLM tasks. <br>
-
-> **Backend Software Engineer @ Develop For Good (Winter 2023 Cohort)** (November 2023 - Feb 2024) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
->
-> • Enhanced security by migrating changemaker REST API from unstable internal framework to NestJS for non-profits monorepo full-stack web application. <br>
-> • Verified correct behavior by writing E2E integration tests in Jest & updating a postman collection to document API changes. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
 > • Developed and maintained Excel VBA Macros to create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs. <br>
@@ -51,9 +45,23 @@ Experience consists of my recent education, work, organization experiences, and 
 > **Games Attendant @ Playland** (July. 2018 - Oct. 2019) <br>
 > • Truly valiant attempts at encouraging guests to play Playland's carnival games <br>
 
-## Organization Experience
+## Volunteer/Leadership Experience
 
-> **Co-President @ SFU-Surge** (Sept. 2023 - Present) <br> **_Links: [Main Site](https://sfusurge.com/) | [Stormhacks](https://stormhacks.com/) | [Join Club Here!](https://go.sfss.ca/clubs/831/info)_** <br> **_Previously: Co-Director of External Relations (Feb. 2023 - Sept. 2023) | Social Media Coordinator (May. 2022 - Feb. 2023)_** <br>
+> **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **_Tech Stack: TBD_** <br>
+>
+> • Leading development team for a complete website modernization project for Reel Youth: a film non-profit. <br>
+
+> **Senior Software Developer @ SFU Blueprint** (Feb 2024 - June 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, Weaviate, langchain_** <br>
+>
+> • Collaborated in a team of 7 to develop an AI chatbot to be integrated into the website of MOSAIC: an immigration non-profit. <br>
+> • Improved accuracy of LLM responses by 50% through improving on vector embeddings to multi-agent RAG w/ python + langchain <br>
+
+> **Backend Software Engineer @ Develop For Good (Winter 2023 Cohort)** (November 2023 - Feb 2024) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
+>
+> • Enhanced security by migrating changemaker REST API from unstable internal framework to NestJS for non-profits monorepo full-stack web application. <br>
+> • Verified correct behavior by writing E2E integration tests in Jest & updating a postman collection to document API changes. <br>
+
+> **Co-President @ SFU-Surge** (Aug. 2023 - June 2024) <br> **_Links: [Main Site](https://sfusurge.com/) | [Stormhacks](https://stormhacks.com/) | [Join Club Here!](https://go.sfss.ca/clubs/831/info)_** <br> **_Previously: Co-Director of External Relations (Feb. 2023 - Sept. 2023) | Social Media Coordinator (May. 2022 - Feb. 2023)_** <br>
 >
 > • Strategize and make decisions to further the club's mission to empower students pursuing tech careers <br>
 > • Oversee the club's operations and coordinate an executive team spanning 8 departments <br>
