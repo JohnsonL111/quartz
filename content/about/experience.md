@@ -20,8 +20,9 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
-> • Improved UI/UX of ICBC.com by delivering front-end fixes/enhacements (NextJS, Typescript, GraphQL, Contentful) & investigated into log drain integration feasability with splunk. <br>
+> • Improved UI/UX of ICBC.com by delivering several front-end fixes/enhacements (NextJS, Typescript, GraphQL, Contentful) & investigated into log drain integration feasability with splunk. <br>
 > • Developed 2 new web forms: an internal incidents notification form in ASP and EACR pilot program form in JSP/Jenkins for ICBC business partners; receiving a recognition award for delivering the latter on a tight deadline with changing requirements. <br>
+> • Implemented several security processes on web forms including client-side spam prevention mechanisms with honeypot fields/CAPTCHA on external forms and access priviledge implementation through server-side authentication against SAP DB for internal forms.
 > • Won "Best Overall Project" in an internal hackathon by building a document chatbot in a team of 4 utilizing Azure cloud services for the LLM/doc parsing/classification and web application with Python, Streamlit, and Flask allowing business users to intuitively interact with broker form data. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
