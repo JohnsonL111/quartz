@@ -20,14 +20,14 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
-> • Improved UI/UX of ICBC.com by delivering front-end fixes/enhacements (NextJS, Typescript, GraphQL, contentful) & investigated into log drain integration with splunk. <br>
-> • Developed web forms in HTML, CSS, JavaScript, ASP (VBScript)/JSP (Java), and Jenkins for internal/external clients; leading novel integration of CAPTCHA/security processes to prevent spam on a suite of 100+ external forms. <br>
-> • Won "Best Overall Project" in an internal hackathon by building a document chatbot utilizing Azure cloud services and web application with Python, Streamlit, and Flask allowing business users to intuitively interact with broker form data. <br>
+> • Improved UI/UX of ICBC.com by delivering front-end fixes/enhacements (NextJS, Typescript, GraphQL, Contentful) & investigated into log drain integration feasability with splunk. <br>
+> • Developed 2 new web forms: an internal incidents notification form in ASP and EACR pilot program form in JSP/Jenkins for ICBC business partners; receiving a recognition award for delivering the latter on a tight deadline with changing requirements. <br>
+> • Won "Best Overall Project" in an internal hackathon by building a document chatbot in a team of 4 utilizing Azure cloud services for the LLM/doc parsing/classification and web application with Python, Streamlit, and Flask allowing business users to intuitively interact with broker form data. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
 > • Developed and maintained Excel VBA Macros to create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs. <br>
 > • Developed a POC full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to publish and manage notifications, replacing a legacy WinForms desktop implementation. <br>
-> • Led development/deployment of 3 new windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of data into DBs (snowflake/MSSQL) for trader consumption. <br>
+> • Led development/deployment of 3 new windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of gas data into DBs (snowflake/MSSQL) for trader consumption. <br>
 > • Identified and optimized historical tableau snapshot generation functionality for an analytics web portal (C#/ASP.NET MVC) by integrating Selenium/Tableau API eliminating unnecessary snowflake DB reads considerably. <br>
 > • Completely overhauled a complex legacy SSIS ETL pipeline into a C#/.NET Windows service after major external API/data source changes from V1 to V2: enhancing maintainability & recovering approximately 2 years of outdated energy data. <br>
 
