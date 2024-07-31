@@ -34,7 +34,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Peloton Technologies** (May. 2022 – August. 2022) <br> **_Tech Stack: C#/.NET, ASP.NET MVC, HTML, CSS/SCSS, Javascript/TypeScript, Jquery, MSTest, Playwright, Git, Azure SQL Server_** <br>
 >
-> • Investigated and developed various full-stack fixes on a C#/ASP.NET MVC stack and developed/modified unit tests in MSTest to verify behavior. <br>
+> • Investigated and developed various full-stack fixes on SaaS payments platform (C#/ASP.NET MVC) and developed/modified unit tests in MSTest to verify behavior. <br>
 > • Enhanced user experience and accessibility by overhauling UI components, employing JavaScript, TypeScript, HTML, jQuery, and CSS/SCSS. <br>
 > • Worked with sole manual QA of company to develop and document companies 1st set of test suites for UI automated tests using C#/Playwright + integrated into Azure Devops CI/CD Infra. <br>
 
