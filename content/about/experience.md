@@ -16,21 +16,20 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **Tech Stack: TBD** <br>
 >
-> • Building and maintaining Developer Tools for hardware teams at Motorola - Avigilon (Video Security & Access Control Division) <br>
+> • Building Developer Tools, automating E2E processes, and improving CI for hardware teams at Motorola - Avigilon (Video Security & Access Control Division) <br>
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
-> • Improved UI/UX of ICBC.com by delivering several front-end fixes/enhacements (NextJS, Typescript, GraphQL, Contentful) & investigated into log drain integration feasability with splunk. <br>
-> • Developed 2 new web forms: an internal incidents notification form in ASP and EACR pilot program form in JSP/Jenkins for ICBC business partners; receiving a recognition award for delivering the latter on a tight deadline with changing requirements. <br>
-> • Implemented several security processes on web forms including client-side spam prevention mechanisms with honeypot fields/CAPTCHA on external forms and access priviledge implementation through server-side authentication against SAP DB for internal forms. <br>
+> • Developed and deployed 2 new web forms using HTML, CSS, JavaScript, VBScript + Java backend, SAP DB, and Jenkins CI/CD for streamlined internal accidents reporting; led integration of CAPTCHA to prevent bot-spam on 100+ external-facing web forms. <br>
+> • Improved UI/UX of https://icbc.com/ by developing on reusable UI component w/ Next.js, Typescript, GraphQL, & Contentful. <br>
 > • Won "Best Overall Project" in an internal hackathon by building a document chatbot in a team of 4 utilizing Azure cloud services for the LLM/doc parsing/classification and web application with Python, Streamlit, and Flask allowing business users to intuitively interact with broker form data. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
-> • Developed and maintained Excel VBA Macros to create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs. <br>
-> • Developed a POC full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to publish and manage notifications, replacing a legacy WinForms desktop implementation. <br>
 > • Led development/deployment of 3 new windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of gas data into DBs (snowflake/MSSQL) for trader consumption. <br>
 > • Identified and optimized historical tableau snapshot generation functionality for an analytics web portal (C#/ASP.NET MVC) by integrating Selenium/Tableau API eliminating unnecessary snowflake DB reads considerably. <br>
 > • Completely overhauled a complex legacy SSIS ETL pipeline into a C#/.NET Windows service after major external API/data source changes from V1 to V2: enhancing maintainability & recovering approximately 2 years of outdated energy data. <br>
+> • Developed and maintained Excel VBA Macros to create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs. <br>
+> • Developed a POC full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to publish and manage notifications, replacing a legacy WinForms desktop implementation. <br>
 
 > **Software Engineer Intern @ Peloton Technologies** (May. 2022 – August. 2022) <br> **_Tech Stack: C#/.NET, ASP.NET MVC, HTML, CSS/SCSS, Javascript/TypeScript, Jquery, MSTest, Playwright, Git, Azure SQL Server_** <br>
 >
@@ -48,7 +47,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Volunteer/Leadership Experience
 
-> **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **\_Tech Stack: Next.js, Typescript, Supabase, Storybook** <br>
+> **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, Supabase, Storybook** <br>
 >
 > • Leading development team for a complete website modernization project for Reel Youth: a film program for aspiring film makers. <br>
 
@@ -57,7 +56,7 @@ Experience consists of my recent education, work, organization experiences, and 
 > • Collaborated in a team of 5 to develop an AI chatbot for MOSAIC: a non-profit supporting Canadian immigrants. <br>
 > • Improved accuracy of LLM responses by 50% through improving on flask API endpoint dealing with RAG workflow w/ LLM utilizing python, langchain, and Neo4j vector embeddings. <br>
 > • Spearheaded devEx enhacements such as by creating front/backend bash startup scripts and by encouraging use of conventional commits specification and branch-issue github workflow.<br>
-> • Currently developing an admin portal for MOSAIC admins to seamlessly modify LLM source data and working on integrating the chatbot onto their website which requires converting the react frontend to a PHP wordpress plugin. <br>
+> • Led integration of React/Flask app into Wordpress website using ReactPress and Local (flywheel) for testing resulting in 100% feature parity.<br>
 
 > **Software Engineer @ Develop For Good (Winter 2023 Cohort)** (November 2023 - Feb 2024) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
 >
@@ -161,4 +160,4 @@ Experience consists of my recent education, work, organization experiences, and 
 
 **Fall 2024**
 
-- Software Developer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Developer Experience Tools</a>
+- Software Engineer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Development Enablement </a>

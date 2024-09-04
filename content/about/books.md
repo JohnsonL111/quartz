@@ -8,6 +8,7 @@ Books are a great past-time. Though, I'm fairly on and off with reading. I hope 
 
 Books I am currenly reading and _surely_ will finish
 
+• <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow" target="_blank">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin </a> <br>
 • <a href="https://www.goodreads.com/en/book/show/50520939" target="_blank">The Atlas Six by Olivia Blake </a> <br>
 • <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings" target="_blank">The Way of Kings by Brandon Sanderson </a> <br>
 • <a href="https://www.goodreads.com/en/book/show/54785515" target="_blank">Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman</a> <br>
