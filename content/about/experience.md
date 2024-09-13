@@ -1,5 +1,6 @@
 ---
 title: Experience
+date: 2024/09/12
 ---
 
 Experience consists of my recent education, work, organization experiences, and courses I have taken

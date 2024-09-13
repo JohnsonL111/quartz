@@ -1,6 +1,7 @@
 ---
 title: "Why you should drink Tea (as an ex-coffee addict)"
 tags: ["lifestyle"]
+date: 2023/10/06
 ---
 
 ![cat_coffee](../posts/attachments/coffee_cat.jpg)

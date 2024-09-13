@@ -1,5 +1,6 @@
 ---
 title: Books
+date: 2024/04/11
 ---
 
 Books are a great past-time. Though, I'm fairly on and off with reading. I hope to be more consistent in the future. Nowadays; however, when I do I read I tend to gravitate towards books related to productivity, leadership, and self-book. In the past (aka in high school) I enjoyed reading mainly YA Fantasy novels.

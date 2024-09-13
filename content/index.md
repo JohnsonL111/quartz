@@ -1,5 +1,6 @@
 ---
 title: 🏡 Home
+date: 2023/12/13
 ---
 
 Hello! I'm Johnson. I am currently studying [Computer Science](https://www.sfu.ca/computing.html) and minoring in [Philosophy](https://www.sfu.ca/philosophy.html) at Simon Fraser University.

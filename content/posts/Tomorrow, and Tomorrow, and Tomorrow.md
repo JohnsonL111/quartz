@@ -1,6 +1,7 @@
 ---
 title: "Tomorrow, and Tomorrow, and Tomorrow"
 tags: ["Books"]
+date: 2024/09/12
 ---
 
 A collection of my favorite quotes from Tomorrow, and Tomorrow, and Tomorrow by Garbrielle Zevin
@@ -30,6 +31,8 @@ A collection of my favorite quotes from Tomorrow, and Tomorrow, and Tomorrow by 
 > “I am,” she said. “Myre Landing will still exist to those who bought the original game, but I think this is an opportunity to bring Mapletown to a larger audience. If it doesn’t work, all we’ve lost is a lot of time and money.”  
 > Sam laughed. “Let’s do this,” he said.  
 > — p. 231
+
+---
 
 > “Torschlusspanik,” Simon said.  
 > “Okay,” Sam said. “I’ll bite.”  
