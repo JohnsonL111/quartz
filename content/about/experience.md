@@ -14,9 +14,9 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **Tech Stack: TBD** <br>
+> **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Powershell, Docker, Kubernetes, Terraform, Azure Cloud, Github Actions, Artifactory, ELK_** <br>
 >
-> • Building Developer Tools, automating E2E processes, and improving CI for hardware teams at Motorola - Avigilon (Video Security & Access Control Division) <br>
+> • Building Developer Infra Tools and working on CI for Avigilon Unity On-Prem and Cloud. <br>
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
