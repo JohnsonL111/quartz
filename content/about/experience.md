@@ -17,7 +17,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Powershell, Docker, Kubernetes, Terraform, Azure Cloud, Github Actions, Artifactory, ELK_** <br>
 >
-> • Building Developer Infra Tools and working on CI for Avigilon Unity On-Prem and Cloud. <br>
+> • Building Developer Infra Tools and working on CI/CD for Avigilon Unity On-Prem and Cloud. <br>
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
@@ -48,11 +48,11 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Volunteer/Leadership Experience
 
-> **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, Supabase, Storybook** <br>
+> **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
 >
 > • Leading development team for a complete website modernization project for Reel Youth: a film program for aspiring film makers. <br>
 
-> **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Present) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
+> **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
 >
 > • Collaborated in a team of 5 to develop an AI chatbot for MOSAIC: a non-profit supporting Canadian immigrants. <br>
 > • Improved accuracy of LLM responses by 50% through improving on flask API endpoint dealing with RAG workflow w/ LLM utilizing python, langchain, and Neo4j vector embeddings. <br>
