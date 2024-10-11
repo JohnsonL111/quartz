@@ -8,7 +8,7 @@ Experience consists of my recent education, work, organization experiences, and 
 ## Education
 
 > **Simon Fraser University** (Sept 2020 - Current) <br>
-> Bachelor of Science, Major in Computer Science, Minor in Philosophy <br> **CGPA: 3.72/4.33** <br>
+> Bachelor of Science, Major in Computer Science, Minor in Philosophy <br> **CGPA: 3.62/4.33** <br>
 
 > **Britannia Secondary School** (Sep. 2015- May. 2020) <br>
 > IB Diploma Program <br>
@@ -17,7 +17,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Powershell, Docker, Kubernetes, Terraform, Azure Cloud, Github Actions/Azure Pipelines, Artifactory, ELK_** <br>
 >
-> • Building Developer Infra Tools and working on CI/CD for Avigilon Unity On-Prem and Cloud. <br>
+> • Building Developer Infra Tooling and working on CI/CD for Avigilon Unity On-Prem and Cloud. <br>
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
