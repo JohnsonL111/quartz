@@ -162,3 +162,8 @@ Experience consists of my recent education, work, organization experiences, and 
 **Fall 2024**
 
 - Software Engineer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Development Enablement </a>
+
+**Spring 2025**
+
+- Software Engineer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Development Enablement </a>
+- <a href="https://www.sfu.ca/students/calendar/2025/spring/courses/cmpt/431.html" target="_blank">CMPT 431 - Distributed Systems </a>

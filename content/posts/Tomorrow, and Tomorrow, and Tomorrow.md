@@ -4,7 +4,7 @@ tags: ["Books"]
 date: 2024/09/12
 ---
 
-A collection of my favorite quotes from Tomorrow, and Tomorrow, and Tomorrow by Garbrielle Zevin
+A collection of my favorite quotes from Tomorrow, and Tomorrow, and Tomorrow by Garbrielle Zevin.
 
 > “I want your advice about something,” Sadie said.  
 > “Of course.”  

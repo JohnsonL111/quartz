@@ -3,20 +3,17 @@ title: Books
 date: 2024/04/11
 ---
 
-Books are a great past-time. Though, I'm fairly on and off with reading. I hope to be more consistent in the future. Nowadays; however, when I do I read I tend to gravitate towards books related to productivity, leadership, and self-book. In the past (aka in high school) I enjoyed reading mainly YA Fantasy novels.
+> Books are a great past-time. Though, I'm fairly on and off with reading. I hope to be more consistent in the future. Nowadays; however, when I do I read I tend to gravitate towards books related to fantasy, productivity, leadership, and self-book. In the past (aka in high school) I enjoyed reading mainly YA Fantasy novels.
 
 ## 2024 Bookshelf
-
-Books I am currenly reading and _surely_ will finish
 
 • <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow" target="_blank">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin </a> <br>
 • <a href="https://www.goodreads.com/en/book/show/50520939" target="_blank">The Atlas Six by Olivia Blake </a> <br>
 • <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings" target="_blank">The Way of Kings by Brandon Sanderson </a> <br>
 • <a href="https://www.goodreads.com/en/book/show/54785515" target="_blank">Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman</a> <br>
+• <a href="https://www.goodreads.com/book/show/22299763-crooked-kingdom" target="_blank">Crooked Kingdom by Leigh Bardugo</a> <br>
 
 ## 2023/2022 Bookshelf
-
-Books that I started and may or may not have finished over the last 2 years.
 
 • <a href="https://www.goodreads.com/book/show/17859574-how-to-fail-at-almost-everything-and-still-win-big" target="_blank">How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life by Scott Adams </a> <br>
 • <a href="https://www.goodreads.com/book/show/59808037-how-not-to-drown-in-a-glass-of-water" target="_blank">How Not to Drown in a Glass of Water by Angie Cruz </a> <br>
