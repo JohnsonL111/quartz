@@ -7,6 +7,8 @@ date: 2024/04/11
 
 ## 2024 Bookshelf
 
+• <a href="https://www.goodreads.com/book/show/57915993-blood-over-bright-haven" target="_blank">Blood Over Bright Haven by ML Wang </a> <br>
+• <a href="https://www.goodreads.com/book/show/41721428-can-t-hurt-me" target="_blank">Can't Hurt Me by David Goggins </a> <br>
 • <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow" target="_blank">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin </a> <br>
 • <a href="https://www.goodreads.com/en/book/show/50520939" target="_blank">The Atlas Six by Olivia Blake </a> <br>
 • <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings" target="_blank">The Way of Kings by Brandon Sanderson </a> <br>
