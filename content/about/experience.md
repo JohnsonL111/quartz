@@ -15,9 +15,9 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Powershell, Docker, Kubernetes, Terraform, Azure Cloud, Github Actions/Azure Pipelines, Artifactory, ELK_** <br>
+> **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Powershell, Docker, Kubernetes, Terraform, Ansible, Azure Cloud, Github Actions/Azure Pipelines, Artifactory_** <br>
 >
-> • Building Developer Infra Tooling and working on CI/CD for Avigilon Unity On-Prem and Cloud. <br>
+> • Building Developer Infra Tooling, release automation, and CI/CD for Avigilon Unity Video Management System (VMS). <br>
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
@@ -162,3 +162,8 @@ Experience consists of my recent education, work, organization experiences, and 
 **Fall 2024**
 
 - Software Engineer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Development Enablement </a>
+
+**Spring 2025**
+
+- Software Engineer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Development Enablement </a>
+- <a href="https://www.sfu.ca/outlines.html?2024/spring/cmpt/431/d100" target="_blank">CMPT 431 - Distributed Systems </a>
