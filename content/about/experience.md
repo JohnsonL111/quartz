@@ -15,15 +15,15 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Powershell, Docker, Kubernetes, Terraform, Ansible, Azure Cloud, Github Actions/Azure Pipelines, Artifactory_** <br>
+> **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, Powershell, Ansible, Azure Cloud, Github Actions, Artifactory_** <br>
 >
 > • Building Developer Infra Tooling, release automation, and CI/CD for Avigilon Unity Video Management System (VMS). <br>
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
-> • Developed and deployed 2 new web forms using HTML, CSS, JavaScript, VBScript + Java backend, SAP DB, and Jenkins CI/CD for streamlined internal accidents reporting; led integration of CAPTCHA to prevent bot-spam on 100+ external-facing web forms. <br>
+> • Developed and deployed 2 new web forms using HTML, CSS, JavaScript, VBScript + Java backend, SAP DB, and Jenkins CI/CD for streamlined internal accidents reporting. <br>
 > • Improved UI/UX of https://icbc.com/ by developing on reusable UI component w/ Next.js, Typescript, GraphQL, & Contentful. <br>
-> • Won "Best Overall Project" in an internal hackathon by building a document chatbot in a team of 4 utilizing Azure cloud services for the LLM/doc parsing/classification and web application with Python, Streamlit, and Flask allowing business users to intuitively interact with broker form data. <br>
+> • Won 1st in a hackathon in a team of 4 w/ a POC solution to automate broker form processing through OCR and ML classification using Azure Cloud & building an RAG-AI chatbot w/ Python, Streamlit, & Flask streamlining form q&a & validation time for 5 form types. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
 > • Led development/deployment of 3 new windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of gas data into DBs (snowflake/MSSQL) for trader consumption. <br>
@@ -34,9 +34,8 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Peloton Technologies** (May. 2022 – August. 2022) <br> **_Tech Stack: C#/.NET, ASP.NET MVC, HTML, CSS/SCSS, Javascript/TypeScript, Jquery, MSTest, Playwright, Git, Azure SQL Server_** <br>
 >
-> • Investigated and developed various full-stack fixes on SaaS payments platform (C#/ASP.NET MVC) and developed/modified unit tests in MSTest to verify behavior. <br>
-> • Enhanced user experience and accessibility by overhauling UI components, employing JavaScript, TypeScript, HTML, jQuery, and CSS/SCSS. <br>
-> • Worked with sole manual QA of company to develop and document companies 1st set of test suites for UI automated tests using C#/Playwright + integrated into Azure Devops CI/CD Infra. <br>
+> • Stomped 7 bugs on client portal (C#/ASP.NET MVC) related to login, AR/AP notifications, and being unable to add CC to account. <br>
+> • Converted 15 manual UI tests into automated ones via C#/Playwright such as for bank transfers, adding CCs, authentication etc., <br>
 
 ## Non-Technical Experience
 
