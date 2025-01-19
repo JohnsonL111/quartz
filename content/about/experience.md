@@ -50,7 +50,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
 >
-> • Leading development team for a complete website modernization project for Reel Youth: a film program for aspiring film makers. <br>
+> •Technical Lead for a complete website modernization project for Reel Youth: a film program for aspiring film makers. <br>
 
 > **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
 >
