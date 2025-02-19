@@ -131,7 +131,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 - <a href="https://www.sfu.ca/outlines.html?2022/fall/cmpt/310/d100" target="_blank">CMPT 310 - Intro to Artifical Intelligence </a>
 - <a href="https://www.sfu.ca/outlines.html?2022/fall/cmpt/272/d100" target="_blank">CMPT 272 - Web Development I </a>
-- <a href="https://www.sfu.ca/outlines.html?2022/fall/phil/342/d100" target="_blank">PHIL 342 - Topics in Asian Philosophy </a>
+- <a href="https://www.sfu.ca/outlines.html?2022/fall/phil/342/d100" target="_blank">PHIL 342 - Topics in Asian Philosophy (Buddhist Ethics) </a>
 
 **Spring 2023**
 
@@ -157,7 +157,7 @@ Experience consists of my recent education, work, organization experiences, and 
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/300/d100" target="_blank">CMPT 300 - Operating Systems I </a>
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/353/d100" target="_blank">CMPT 353 - Computational Data Science </a>
 - <a href="https://www.sfu.ca/outlines.html?2023/fall/cmpt/365/d100" target="_blank">CMPT 365 - Multimedia Systems </a>
-- <a href="https://www.sfu.ca/outlines.html?2024/summer/phil/302/d100" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics </a>
+- <a href="https://www.sfu.ca/outlines.html?2024/summer/phil/302/d100" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics (Phil of Medicine) </a>
 
 **Fall 2024**
 
@@ -167,3 +167,10 @@ Experience consists of my recent education, work, organization experiences, and 
 
 - Software Engineer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Development Enablement </a>
 - <a href="https://www.sfu.ca/outlines.html?2024/spring/cmpt/431/d100" target="_blank">CMPT 431 - Distributed Systems </a>
+
+**Summer 2025**
+
+- <a href="https://www.sfu.ca/outlines.html?2025/summer/cmpt/403/d100" target="_blank">CMPT 403 - System Security and Privacy </a>
+- <a href="https://www.sfu.ca/outlines.html?2025/summer/macm/316/d100" target="_blank">MACM 316 - Numerical Analysis </a>
+- <a href="https://www.sfu.ca/outlines.html?2025/summer/phil/321/e100" target="_blank">PHIL 321 - Topics in Moral Philosophy (Phil of Love) </a>
+- <a href="https://www.sfu.ca/outlines.html?2025/summer/educ/220/ol01" target="_blank">EDUC 220 - Intro to Educational Psychology </a>
