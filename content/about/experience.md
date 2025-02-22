@@ -8,7 +8,7 @@ Experience consists of my recent education, work, organization experiences, and 
 ## Education
 
 > **Simon Fraser University** (Sept 2020 - Current) <br>
-> Bachelor of Science, Major in Computer Science, Minor in Philosophy <br> **CGPA: 3.62/4.33** <br>
+> Bachelor of Science, Major in Computer Science, Minor in Philosophy <br>
 
 > **Britannia Secondary School** (Sep. 2015- May. 2020) <br>
 > IB Diploma Program <br>
@@ -17,21 +17,21 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, Powershell, Ansible, Azure Cloud, Github Actions, Artifactory_** <br>
 >
-> • Building Developer Infra Tooling, release automation, and CI/CD for Avigilon Unity Video Management System (VMS). <br>
+> • Platform Infrastucture Tooling (cloud, on-prem), build/release automation (build scripts/process automation), and nightly CI regression for the Unity VMS product. <br>
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
 >
-> • Developed a new <a href="https://onlinebusiness.icbc.com/eforms/dotcom/jsp/CL417A.jsp" target="_blank">external web form</a> on a tight deadline for the partners portal launch; receiving a recogition award by the forms analyst for the swift delivery. <br>
-> • Developed a new internal web form for accidents escalation using HTML, CSS, SAP DB, Java, and Jenkins CI/CD.<br>
-> • Helped maintain the UI/UX of https://icbc.com/ by developing on and fixing bugs related to reusable UI components w/ Next.js, Typescript, GraphQL, & Contentful. <br>
+> • Developed a new <a href="https://onlinebusiness.icbc.com/eforms/dotcom/jsp/CL417A.jsp" target="_blank">external web form</a> on a tight deadline with changing requirements for the partners portal launch; receiving a recogition award by the forms analyst for the swift delivery. <br>
+> • Developed a new internal web form to improve accidents escalation using HTML, CSS, SAP Relational DB, Java, and Jenkins CI/CD.<br>
+> • Helped maintain the UI/UX of https://icbc.com/ by improving on and fixing bugs for reusable UI components such as for widgets, wizards, etc., w/ Next.js, Typescript, GraphQL, & Contentful. <br>
 > • Won 1st (Best Overall Project) in an internal hackathon in a team of 4 w/ a POC solution to automate broker form processing through OCR and ML classification using Azure Cloud & building an RAG-AI chatbot w/ Python, Streamlit, & Flask streamlining form q&a & validation time for 5 form types. <br>
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
-> • Led development/deployment of 3 new windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ELT web page/API scrapers to process large amounts of gas data into DBs (snowflake/MSSQL) for trader and dashboard consumption. <br>
+> • Took initiative for the end-to-end development/deployment of 3 windows services daemons (C#.NET, EF6, Selenium, Snowflake/MSSQL, and TeamCity CI/CD) as ETL web page/API scrapers to process large amounts of gas data into DBs (snowflake/MSSQL) for trader and dashboard consumption. <br>
 > • Identified and optimized historical tableau chart snapshot generation functionality for an analytics web portal (C#/ASP.NET MVC) by integrating Selenium/Tableau API eliminating unnecessary snowflake DB reads considerably. <br>
 > • Completely overhauled a complex legacy SSIS ETL pipeline into a C#/.NET Windows service with 100% feature parity after major external API/data source changes from V1 to V2: enhancing maintainability & recovering approximately 2 years of stale energy data. <br>
 > • Worked with a quant directly to gather requirements and develop features for a suite of Excel VBA Macros that create an interactive excel dashboard to improve trading productivity for WECC powerplant energy data using SQL, VBA, and Oracle/MSSQL DBs. <br>
-> • Developed, end to end, a full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to interface with notification data as part of a department initative to shift to a web based master data management (MDM) portal (replacing a legacy WinForms desktop implementation).<br>
+> • Developed, end-to-end, a POC full-stack web portal (React.js/C#.NET, DevExtreme, EF6, MSSQL, ASP.NET APIs, MSDeploy) for administrators to interface with notification data as part of a department initative to shift to a web based master data management (MDM) portal (replacing a legacy WinForms desktop implementation).<br>
 
 > **Software Engineer Intern @ Peloton Technologies** (May. 2022 – August. 2022) <br> **_Tech Stack: C#/.NET, ASP.NET MVC, HTML, CSS/SCSS, Javascript/TypeScript, Jquery, MSTest, Playwright, Git, Azure SQL Server_** <br>
 >
@@ -50,7 +50,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
 >
-> •Technical Lead for a complete website modernization project for Reel Youth: a film program for aspiring film makers. <br>
+> •Technical Lead for a website modernization project for Reel Youth: a film program for aspiring film makers. <br>
 
 > **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
 >
