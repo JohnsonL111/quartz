@@ -52,7 +52,7 @@ Experience consists of my recent education, work, organization experiences, and 
 >
 > •Technical Lead for a website modernization project for Reel Youth: a film program for aspiring film makers. <br>
 
-> **Senior Software Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
+> **Senior Project Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
 >
 > • Collaborated in a team of 5 to develop an AI chatbot for MOSAIC: a non-profit supporting Canadian immigrants. <br>
 > • Improved accuracy of LLM responses by 50% through improving on flask API endpoint dealing with RAG workflow w/ LLM utilizing python, langchain, and Neo4j vector embeddings. <br>
