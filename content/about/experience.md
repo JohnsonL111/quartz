@@ -50,7 +50,8 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
 >
-> •Technical Lead for a website modernization project for Reel Youth: a film program for aspiring film makers. <br>
+> • Work closely with NPO and PM as a Technical Lead/Dev overseeing a team of devs and designers for a project to develop a new modern responsive website for Reel Youth: an NPO offering film making programs for aspiring film makers. 20+ YOE, 2600+ short films created, 7400+ youth impacted. <br>
+> • Challenges: Scalability and maintainability post-hand off (CMS-first data store/headless CMS approach), migration of old films to new platform, deployment and designing technical architecture to minimize costs and scale project. <br>
 
 > **Senior Project Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
 >
