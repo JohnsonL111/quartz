@@ -17,7 +17,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, Powershell, Ansible, Azure Cloud, Github Actions, Artifactory_** <br>
 >
-> • Platform Infrastucture Tooling (cloud, on-prem), build/release automation (build scripts/process automation), and nightly CI regression for the Unity VMS product. <br>
+> • Platform Infrastucture Tooling (cloud, on-prem), build/release automation (build scripts/process automation), and CI/CD pipelines. <br>
 
 ---
 
