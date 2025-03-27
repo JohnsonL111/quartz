@@ -17,7 +17,7 @@ Get students from non-CS backgrounds familiar with HTML, CSS, Javascript through
 ### Code:
 
 - [Source Code](https://github.com/JohnsonL111/stormHacks24-intro-to-web-dev)
-- [Final Product](https://johnsonl111.github.io/workshop-portfolio/)
+- [Final Product](https://johnsonl111.github.io/stormhacks24-prehack-workshop/)
 
 ### Notion Handbook/Guide:
 
