@@ -187,3 +187,9 @@ Experience consists of my recent education, work, organization experiences, and 
 
 - Software Engineer Intern @ [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Development Enablement </a>
 - <a href="https://www.sfu.ca/outlines.html?2024/spring/cmpt/431/d100" target="_blank">CMPT 431 - Distributed Systems </a>
+
+**Summer 2025**
+
+- <a href="https://www.sfu.ca/outlines.html?2023/summer/cmpt/493/d100" target="_blank">CMPT 493 - Digital Media Practicum </a>
+- <a href="https://www.sfu.ca/outlines.html?2025/summer/phil/321/e100" target="_blank">PHIL 321 - Topics in Moral Philosophy </a>
+- <a href="https://www.sfu.ca/students/calendar/2025/summer/courses/macm/316.html" target="_blank">MACM 316 - Numerical Analysis </a>
