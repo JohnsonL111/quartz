@@ -31,8 +31,11 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
 > • Developed 4 parallelized C#/.NET ETL API/Web Scrapers that process large-scale gas/energy data daily to guide trade decisions <br><br>
+> • Maintained and extended a suite of 150+ C# data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability. <br><br>
 > • Designed and developed C#/.NET APIs and a React frontend for a portal to allow admins to interact with notification data (CRUD).<br><br>
-> • Built Macros w/ VBA/SQL/Snowflake to support WECC data refresh/archive for an internal workbook used by quants. <br>
+> • Developed SQL tables and views to structure and categorize energy data, and wrote data migration scripts to transfer datasets from Microsoft SQL Server (MSSQL) to Snowflake. <br><br>
+> • Built interactive VBA Macros interacting with SQL/Snowflake to support WECC data refresh/archive for an internal workbook used by quants. <br> <br>
+> • Led the migration of an SSIS ETL pipeline and related jobs to a modernized C#/.NET Windows Service, improving maintainability and infrastructure reliability after external data fragmentation. <br>
 
 ---
 
@@ -56,6 +59,7 @@ Experience consists of my recent education, work, organization experiences, and 
 > **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
 >
 > • Work closely with NPO and PM as a student Technical Lead/Dev overseeing a team of devs and designers for a project to develop a new modern responsive website for Reel Youth: an NPO offering film making programs for aspiring film makers. 20+ YOE, 2600+ short films created, 7400+ youth impacted. <br>
+> • Acted as both technical lead and core developer for the project, collaborating with stakeholders to define timelines, designing epics, mentoring developers, contributing directly to the codebase, and creating technical tutorials to support onboarding and development. <br>
 > • Challenges: Scalability and maintainability post-hand off (CMS-first data store/headless CMS approach), migration of old films to new platform, deployment and designing technical architecture to minimize costs and scale project. <br>
 
 ---
