@@ -15,9 +15,15 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Software Engineer Intern @ Motorola Solutions** (Sept 2024) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, Powershell, Ansible, Azure Cloud, Github Actions, Artifactory_** <br>
+> **Associate Software Developer Intern @ HP** (May 2025) <br> **_Tech Stack: TBD_** <br>
 >
-> • Platform Infrastucture Tooling (cloud, on-prem), developer experience, and CI/CD pipelines. <br>
+> • Working on HP Anyware Manager as a Service <br>
+
+---
+
+> **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, Powershell, Ansible, Azure Cloud, Github Actions, Artifactory_** <br>
+>
+> • Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal tooling), and CI/CD pipelines for the Unity Video Product. <br>
 
 ---
 
@@ -194,6 +200,5 @@ Experience consists of my recent education, work, organization experiences, and 
 
 **Summer 2025**
 
-- <a href="https://www.sfu.ca/outlines.html?2023/summer/cmpt/493/d100" target="_blank">CMPT 493 - Digital Media Practicum </a>
-- <a href="https://www.sfu.ca/outlines.html?2025/summer/phil/321/e100" target="_blank">PHIL 321 - Topics in Moral Philosophy </a>
-- <a href="https://www.sfu.ca/students/calendar/2025/summer/courses/macm/316.html" target="_blank">MACM 316 - Numerical Analysis </a>
+- Associate Software Developer Intern @ [HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html) - HP Anyware Manager
+- <a href="https://www.sfu.ca/students/calendar/2025/summer/courses/iat/210.html" target="_blank">IAT 210 - Introduction to Game Studies: Theory and Design</a>
