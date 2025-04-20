@@ -200,5 +200,5 @@ Experience consists of my recent education, work, organization experiences, and 
 
 **Summer 2025**
 
-- Associate Software Developer Intern @ [HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html) - HP Anyware Manager
+- Associate Software Developer Intern @ [HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html) - HP Anyware
 - <a href="https://www.sfu.ca/students/calendar/2025/summer/courses/iat/210.html" target="_blank">IAT 210 - Introduction to Game Studies: Theory and Design</a>
