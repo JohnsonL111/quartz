@@ -17,11 +17,11 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Associate Software Developer Intern @ HP** (May 2025) <br> **_Tech Stack: TBD_** <br>
 >
-> • Working on HP Anyware Manager as a Service <br>
+> • Working on HP Anyware Cloud Access Manager as a Service on the Platform Team <br>
 
 ---
 
-> **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, Powershell, Ansible, Azure Cloud, Github Actions, Artifactory_** <br>
+> **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, lots of Powershell, Ansible, Azure Cloud Services, Azure Key Vault, Github Actions, Artifactory_** <br>
 >
 > • Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal tooling), and CI/CD pipelines for the Unity Video Product. <br>
 
