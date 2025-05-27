@@ -83,7 +83,7 @@ Experience consists of my recent education, work, organization experiences, and 
 ## Volunteer/Leadership Experience
 
 > **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
-> • Tech Lead for a team of devs and designers to develop a new website and a new CMS for the Reel Youth NPO: an NPO that offers grassroots film making programs for underpriviledged youth. <br>
+> • Tech Lead for a team of devs and designers working on developing a new website integrated with a new CMS to easily manage programs, films, and other content for Reel Youth. Reel Youth is an NPO that offers grassroots film making programs for underpriviledged youth. <br>
 
 <details>
   <summary>More Details</summary>
@@ -124,7 +124,7 @@ Experience consists of my recent education, work, organization experiences, and 
 ---
 
 > **Co-President @ SFU-Surge** (Aug. 2023 - June 2024) <br> **_Links: [Main Site](https://sfusurge.com/) | [Stormhacks](https://stormhacks.com/) | [Join Club Here!](https://go.sfss.ca/clubs/831/info)_** <br> **_Previously: Co-Director of External Relations (Feb. 2023 - Sept. 2023) | Social Media Coordinator (May. 2022 - Feb. 2023)_** <br>
-> • Co-Prez for the premier hackathon and tech club at SFU.
+> • Co-Prez for SFU’s premier tech club and host of StormHacks, SFU’s largest and only Major League Hacking (MLH) hackathon, dedicated to empowering students with practical experience in the tech industry.
 
 <details>
   <summary>More Details</summary>
