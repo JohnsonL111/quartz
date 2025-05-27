@@ -17,38 +17,58 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Associate Software Developer Intern @ HP** (May 2025) <br> **_Tech Stack: TBD_** <br>
 >
-> • Working on HP Anyware Manager (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
+> • Developer Working on HP Anyware Manager (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
 
 ---
 
 > **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, lots of Powershell, Ansible, Azure Cloud Services, Azure Key Vault, Github Actions, Artifactory_** <br>
 >
-> • Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal CICD automation tooling and libraries), and internal PaaS web application development for the Unity Video Product. <br>
+> • SWE on the DevEx/Enablement Tools team responsible for Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal CICD automation tooling and libraries), and internal PaaS web application development for the Unity Video Product. <br>
 
 ---
 
 > **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
-> • Won 1st place (Best Overall Project) in a 48-hour company hackathon judged by ICBC executives (including the CEO & CTO) by developing an E2E POC system to automate broker form processing through OCR and ML classification using Azure Cloud, integrated with an RAG-AI chatbot built with Python, Streamlit, & Flask—streamlining form Q&A and validation time for five form types. <br>  
-> • Worked closely with forms analysts to maintain and expand an inventory of 250+ web forms; led the greenfield development of a <a href="https://onlinebusiness.icbc.com/eforms/dotcom/jsp/CL417A.jsp" target="_blank">new external web form</a> under tight deadlines for the partners portal launch—receiving a recognition award for swift delivery. <br>  
-> • Developed a new internal escalation web form to improve accident reporting efficiency, leveraging Java, SAP relational databases, HTML, CSS, and Jenkins CI/CD. <br>  
-> • Fixed 10+ UI bugs and improved reusable UI components (widgets, wizards, etc.) on <a href="https://www.icbc.com/" target="_blank">ICBC.com</a>, updating Storybook for consistency using Next.js, TypeScript, GraphQL, & Contentful CMS. <br>
+> • Full-Stack Developer on the Portals/Procedures Services Team handling ICBC.com and any self-service portals for internal and external users. <br><br>
+
+<details>
+  <summary>More Details</summary>
+  <p>
+    • Won 1st place (Best Overall Project) in a 48-hour company hackathon judged by ICBC executives (including the CEO & CTO) by developing an E2E POC system to automate broker form processing through OCR and ML classification using Azure Cloud, integrated with an RAG-AI chatbot built with Python, Streamlit, & Flask—streamlining form Q&A and validation time for five form types.<br><br>
+    • Worked closely with forms analysts to maintain and expand an inventory of 250+ web forms; led the greenfield development of a <a href="https://onlinebusiness.icbc.com/eforms/dotcom/jsp/CL417A.jsp" target="_blank">new external web form</a> under tight deadlines for the partners portal launch—receiving a recognition award for swift delivery.<br><br>
+    • Developed a new internal escalation web form to improve accident reporting efficiency, leveraging Java, SAP relational databases, HTML, CSS, and Jenkins CI/CD.<br><br>
+    • Fixed 10+ UI bugs and improved reusable UI components (widgets, wizards, etc.) on <a href="https://www.icbc.com/" target="_blank">ICBC.com</a>, updating Storybook for consistency using Next.js, TypeScript, GraphQL, & Contentful CMS.<br><br>
+  </p>
+</details>
 
 ---
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
-> • Developed 4 parallelized C#/.NET ETL API/Web Scrapers that process large-scale gas/energy data daily to guide trade decisions <br><br>
-> • Maintained and extended a suite of 150+ C# data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability. <br><br>
-> • Designed and developed C#/.NET APIs and a React frontend for a portal to allow admins to interact with notification data (CRUD).<br><br>
-> • Developed SQL tables and views to structure and categorize energy data, and wrote data migration scripts to transfer datasets from Microsoft SQL Server (MSSQL) to Snowflake. <br><br>
-> • Built interactive VBA Macros interacting with SQL/Snowflake to support WECC data refresh/archive for an internal workbook used by quants. <br> <br>
-> • Led the migration of an SSIS ETL pipeline and related jobs to a modernized C#/.NET Windows Service, improving maintainability and infrastructure reliability after external data fragmentation. <br>
+> • Developer on the Analytics team delivering internal tools used by quants and traders for energy trading under BC Hydro. <br><br>
+
+<details>
+  <summary>More Details</summary>
+  <p>
+    • Developed 4 parallelized C#/.NET ETL API/Web Scrapers that process large-scale gas/energy data daily to guide trade decisions.<br><br>
+    • Maintained and extended a suite of 150+ C# data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability.<br><br>
+    • Designed and developed C#/.NET APIs and a React frontend for a portal to allow admins to interact with notification data (CRUD).<br><br>
+    • Developed SQL tables and views to structure and categorize energy data, and wrote data migration scripts to transfer datasets from Microsoft SQL Server (MSSQL) to Snowflake.<br><br>
+    • Built interactive VBA Macros interacting with SQL/Snowflake to support WECC data refresh/archive for an internal workbook used by quants.<br><br>
+    • Led the migration of an SSIS ETL pipeline and related jobs to a modernized C#/.NET Windows Service, improving maintainability and infrastructure reliability after external data fragmentation.<br><br>
+  </p>
+</details>
 
 ---
 
 > **Software Engineer Intern @ Peloton Technologies** (May. 2022 – August. 2022) <br> **_Tech Stack: C#/.NET, ASP.NET MVC, HTML, CSS/SCSS, Javascript/TypeScript, Jquery, MSTest, Playwright, Git, Azure SQL Server_** <br>
->
-> • Stomped 7 bugs on client portal (C#/ASP.NET MVC) related to login, AR/AP notifications, and being unable to add CC to account. <br><br>
-> • Converted 15 manual UI tests into automated ones via C#/Playwright such as for bank transfers, adding CCs, authentication etc., <br><br>
+> • Full-Stack developer on the core product team in a startup environment for Peloton's admin/client portal for SMEs. <br><br>
+
+<details>
+  <summary>More Details</summary>
+  <p>
+    • Stomped 7 bugs on client portal (C#/ASP.NET MVC) related to login, AR/AP notifications, and being unable to add CC to account.<br><br>
+    • Converted 15 manual UI tests into automated ones via C#/Playwright such as for bank transfers, adding CCs, authentication etc.<br><br>
+  </p>
+</details>
 
 ---
 
@@ -63,34 +83,57 @@ Experience consists of my recent education, work, organization experiences, and 
 ## Volunteer/Leadership Experience
 
 > **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
->
-> • Work closely with NPO and PM as a student Technical Lead/Dev overseeing a team of devs and designers for a project to develop a new modern responsive website for Reel Youth: an NPO offering film making programs for aspiring film makers. 20+ YOE, 2600+ short films created, 7400+ youth impacted. <br>
-> • Acted as both technical lead and core developer for the project, collaborating with stakeholders to define timelines, designing epics, mentoring developers, contributing directly to the codebase, and creating technical tutorials to support onboarding and development. <br>
-> • Challenges: Scalability and maintainability post-hand off (CMS-first data store/headless CMS approach), migration of old films to new platform, deployment and designing technical architecture to minimize costs and scale project. <br>
+> • Tech Lead for a team of devs and designers to develop a new website and a new CMS for the Reel Youth NPO: an NPO that offers grassroots film making programs for underpriviledged youth. <br>
+
+<details>
+  <summary>More Details</summary>
+  <p>
+    • Work closely with NPO and PM as a student Technical Lead/Dev overseeing a team of devs and designers for a project to develop a new modern responsive website for Reel Youth: an NPO offering film making programs for aspiring film makers. 20+ YOE, 2600+ short films created, 7400+ youth impacted.<br><br>
+    • Acted as both technical lead and core developer for the project, collaborating with stakeholders to define timelines, designing epics, mentoring developers, contributing directly to the codebase, and creating technical tutorials to support onboarding and development.<br><br>
+    • Challenges: Scalability and maintainability post-hand off (CMS-first data store/headless CMS approach), migration of old films to new platform, deployment and designing technical architecture to minimize costs and scale project.<br><br>
+  </p>
+</details>
 
 ---
 
 > **Senior Project Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
->
-> • Collaborated in a team of 5 to develop an AI chatbot for MOSAIC: a non-profit supporting Canadian immigrants. <br>
-> • Improved accuracy of LLM responses by 50% through improving on flask API endpoint dealing with RAG workflow w/ LLM utilizing python, langchain, and Neo4j vector embeddings. <br>
-> • Spearheaded devEx enhacements such as by creating front/backend bash startup scripts and by encouraging use of conventional commits specification and branch-issue github workflow.<br>
-> • Led integration of React/Flask app into Wordpress website using ReactPress and Local (flywheel) for testing resulting in 100% feature parity.<br>
+> • Senior Project Dev in a team of 5 to develop an AI chatbot for MOSAIC: a non-profit supporting Canadian immigrants. <br>
+
+<details>
+  <summary>More Details</summary>
+  <p>
+    • Improved accuracy of LLM responses by 50% through improving on flask API endpoint dealing with RAG workflow w/ LLM utilizing python, langchain, and Neo4j vector embeddings.<br><br>
+    • Spearheaded devEx enhancements such as by creating front/backend bash startup scripts and by encouraging use of conventional commits specification and branch-issue github workflow.<br><br>
+    • Led integration of React/Flask app into Wordpress website using ReactPress and Local (flywheel) for testing resulting in 100% feature parity.<br><br>
+  </p>
+</details>
 
 ---
 
 > **Software Engineer @ Develop For Good (Winter 2023 Cohort)** (November 2023 - Feb 2024) <br> **_Tech Stack: NestJS, Typescript, Docker, Firebase (Auth/Firestore), Jest, PostgreSQL, Git_** <br>
->
-> • Collaborated in a team of 6 on a backend modernization project for InvolveMINT: a US-based non-profit behind a digital network that pays for normally unpaid social and environmental work. <br>
-> • Repaired 5 outdated end-to-end jest-based integration test suites and translated 3 API endpoints from OrchaJS to NestJS within typescript monorepo codebase. <br>
-> • Mentored junior developers on full-stack concepts, local developer setup (firebase, docker, scripts etc.,), and postman API testing. <br>
+> • Developer in a team of 6 working on a backend migration/modernization project for InvolveMINT: a US-based non-profit behind a digital network that pays for normally unpaid social and environmental work. <br>
+
+<details>
+  <summary>More Details</summary>
+  <p>
+    • Repaired 5 outdated end-to-end jest-based integration test suites and translated 3 API endpoints from OrchaJS to NestJS within typescript monorepo codebase.<br><br>
+    • Mentored junior developers on full-stack concepts, local developer setup (firebase, docker, scripts etc.,), and postman API testing.<br><br>
+  </p>
+</details>
 
 ---
 
 > **Co-President @ SFU-Surge** (Aug. 2023 - June 2024) <br> **_Links: [Main Site](https://sfusurge.com/) | [Stormhacks](https://stormhacks.com/) | [Join Club Here!](https://go.sfss.ca/clubs/831/info)_** <br> **_Previously: Co-Director of External Relations (Feb. 2023 - Sept. 2023) | Social Media Coordinator (May. 2022 - Feb. 2023)_** <br>
-> • Provided club vision for the 2023-2024 term, co-chaired weekly meetings, and advised on departmental projects. <br>
-> • Strategized and made decisions to further the club's mission to empower students pursuing tech careers leading to the successful inaugural launch of beginner hackathon JourneyHacks 2024, a PROJECTS development team cycle, and various tech workshops and socials. <br>
-> • Oversaw successful cross-functional organization of StormHacks 2024: SFU's largest MLH hackathon with +350 in attendance including hackers, industry judges/mentors, workshops, and sponsors.<br>
+> • Co-Prez for the premier hackathon and tech club at SFU.
+
+<details>
+  <summary>More Details</summary>
+  <p>
+    • Provided club vision for the 2023-2024 term, co-chaired weekly meetings, and advised on departmental projects.<br><br>
+    • Strategized and made decisions to further the club's mission to empower students pursuing tech careers leading to the successful inaugural launch of beginner hackathon JourneyHacks 2024, a PROJECTS development team cycle, and various tech workshops and socials.<br><br>
+    • Oversaw successful cross-functional organization of StormHacks 2024: SFU's largest MLH hackathon with +350 in attendance including hackers, industry judges/mentors, workshops, and sponsors.<br><br>
+  </p>
+</details>
 
 ---
 
