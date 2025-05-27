@@ -17,7 +17,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Associate Software Developer Intern @ HP** (May 2025) <br> **_Tech Stack: TBD_** <br>
 >
-> • Working on HP Anyware Cloud Access Manager as a Service on the Platform Team <br>
+> • Working on HP Anyware Manager (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
 
 ---
 
