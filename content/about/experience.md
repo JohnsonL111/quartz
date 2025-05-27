@@ -23,7 +23,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, lots of Powershell, Ansible, Azure Cloud Services, Azure Key Vault, Github Actions, Artifactory_** <br>
 >
-> • Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal tooling), and CI/CD pipelines for the Unity Video Product. <br>
+> • Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal CICD automation tooling and libraries), and internal PaaS web application development for the Unity Video Product. <br>
 
 ---
 
