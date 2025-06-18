@@ -7,6 +7,7 @@ date: 2024/04/11
 
 ## 2025 Bookshelf
 
+• <a href="https://www.goodreads.com/book/show/58416952-the-will-of-the-many" target="_blank">The Will of the Many, James Islington</a> <br>
 • <a href="https://www.goodreads.com/book/show/30659.Meditations" target="_blank">Meditations, Marcus Aurelius</a> <br>
 
 ## 2024 Bookshelf
