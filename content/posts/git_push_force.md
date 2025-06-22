@@ -4,7 +4,7 @@ tags: ["Educational"]
 date: 2024/10/10
 ---
 
-Today at my coop I was doing a particularly inordinate number of force pushes to my branch. Typically, this is a result of cleaning up its history to prepare for a PR. The workflow looked something like...
+Today at my coop I was doing a particularly inordinate number of force pushes to my branch (okay before i get stabbed by the hypothetical anti-force pushing folks its to _my_ branch and its GHA pipeline work sooo). Typically, this is a result of cleaning up its history to prepare for a PR. The workflow looked something like...
 
 ```
 # 1. write some code to test something in a CI pipeline, make a commit.
@@ -16,6 +16,8 @@ Today at my coop I was doing a particularly inordinate number of force pushes to
 # n. now I'm left with 10 commits with msgs "test1..2...3" etc., with sprinkles of "please work#n" in between
 ```
 
+_Bare in mind I'm pretty new to CI/CD work hence the trials and tribulations-_
+
 To fix this I would do an interactive rebase and squash all the test commits into the first semantic commit and then force push onto my branch. Okay cool. But in the process I ran into an interesting stack overflow post [git push --force-with-lease vs. --force](https://stackoverflow.com/questions/52823692/git-push-force-with-lease-vs-force#:~:text=force%20overwrites%20a%20remote%20branch,elses%20work%20by%20force%20pushing.). This was interesting for two reasons. First, because I never used the `--force-with-lease` option and have never heard of it. And two, wait... did somebody mention Compare and Swap? Yes, in fact, `git push --force-with-lease` is a high level implementation of compare and swap. Consequentially, I decided to write a quick summary of my findings because hey why not.
 
 ![aw dammit gif](../posts/attachments/gambling-loop.gif)
@@ -24,7 +26,7 @@ To fix this I would do an interactive rebase and squash all the test commits int
 
 ### Compare and Swap
 
-In the summer semester I enrolled in SFU's last offering of CMPT300: Intro to Operating Systems. One of the concepts in the course is Compare and Swap. CAS is implemented on an assembly level and it's used to enforce atomicity in multi-threaded applications to avoid race conditions. Basically, if I have two threads, thread A should be able to acquire a "lock" on a critical section preventing thread B from entering the critical section and mucking with its state.
+In the summer semester I enrolled in SFU's last offering of CMPT300: Intro to Operating Systems. It's the last one since they had planned on separating it into two separate courses. Anyways, one of the concepts in the course is Compare and Swap. CAS is implemented on an assembly level and it's used to enforce atomicity in multi-threaded applications to avoid race conditions. Basically, if I have two threads, thread A should be able to acquire a "lock" on a critical section preventing thread B from entering the critical section and mucking with its state.
 
 ### The Comparison
 
