@@ -70,13 +70,13 @@ Wait a minute? Node projects (CJS) in a frontend (ESM) environment?
 
 That's where the confusion happens.
 
-React, for example, was written in CJS but the browser with the latest ECMAscript6 update only supported ESM. So now you need a translation layer that converts cjs into something the browser could understand.
+Original React, for example, was written in CJS but the browser with the latest ECMAscript6 update only supported ESM. So now you need a translation layer that converts cjs into something the browser could understand. Thankfully, modern React ships with ESM support.
 
 ## The Result
 
 Although if you use Vite it abstracts all the translation away from you it's still kind of insightful to learn about the behind the scenes. It also explains a lot of the reason why some people detest working on JS projects sometimes (besides the fact its not typed - just use typescript folks).
 
-Nowadays, most modern node packages ship as ESM and there's a continuous effort to provide ESM variants of legacy packages but its still an ongoing effort to interop the two.
+Nowadays, most modern net new node packages ship as ESM and there's a continuous effort to provide ESM variants of legacy packages but its still an ongoing effort to interop the two.
 
 ## Deno
 
