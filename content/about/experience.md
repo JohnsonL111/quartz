@@ -15,15 +15,28 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Associate Software Developer Intern @ HP** (May 2025) <br> **_Tech Stack: TBD_** <br>
+> **Associate Software Developer Intern @ HP** (May 2025) <br> **_Tech Stack: React, Typescript, NestJS, Amazon Web Services, Docker, Kubernetes, bash, Github Actions, Harbor, Splunk, RTL/mocha/chai_**<br>
 >
-> • Developer Working on HP Anyware Manager (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
+> • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
+<details>
+  <summary>More Details</summary>
+  <p>• Developing a full-stack internal compliance reporting tool for Security Vulnerability Analysis on HP service repositories from the ground up. Supports Black Duck, Veracode, Trivy, npm audit, and SonarQube scans. Responsibilities include building the frontend and backend, containerizing the application, integrating with AWS services (S3, Secrets Manager, IAM, DynamoDB), writing unit tests, and leveraging IaaS tooling for CI/CD deployments to Kubernetes with Splunk APM and logging.</p>
+</details>
 
 ---
 
-> **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, lots of Powershell, Ansible, Azure Cloud Services, Azure Key Vault, Github Actions, Artifactory_** <br>
+> **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, lots of Powershell, Ansible, Azure Cloud Services, Github Actions, Artifactory_** <br>
 >
 > • SWE on the DevEx/Enablement Tools team responsible for Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal CICD automation tooling and libraries), and internal PaaS web application development for the Unity Video Product. <br>
+<details>
+  <summary>More Details</summary>
+  <p>• Developed a PowerShell CLI tool to generate SLSA provenance between Unity video builds, providing a structured history across 20+ C# microservices and C++ components for integration into release pipelines for compliance and used ad-hoc for debugging.</p>
+  <p>• Contributed a feature to the nightly on-prem CI test environment allowing dev product teams to access real camera hardware in their tests through static IP addressing (as opposed to cam sims).</p>
+  <p>• Contributed a feature to Ansible playbooks for build infrastructure setup which allowed dev product teams to access machines using VNC, solving an issue with UI tests failing.</p>
+  <p>• Maintained and debugged Terraform IaaC tooling with Azure and PowerShell, enabling developers to spin up 120+ clustered video servers and camera simulators for tests.</p>
+  <p>• Shephered show-stopping bug fixes & QOL improvements in bamboo release automation tooling & ERN generation leading to increased adoption of the tools by the release team</p>
+  <p>• Diagnosed and debugged various networking issues with on-prem test machines in the server room and for our large-scale distributed camera simulator system, including fixing network issues and optimizing latency by reducing network hops.</p>
+</details>
 
 ---
 
@@ -230,7 +243,7 @@ Experience consists of my recent education, work, organization experiences, and 
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/300/d100" target="_blank">CMPT 300 - Operating Systems I </a>
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/353/d100" target="_blank">CMPT 353 - Computational Data Science </a>
 - <a href="https://www.sfu.ca/outlines.html?2023/fall/cmpt/365/d100" target="_blank">CMPT 365 - Multimedia Systems </a>
-- <a href="https://www.sfu.ca/outlines.html?2024/summer/phil/302/d100" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics (Phil of Medicine) </a>
+- <a href="https://www.sfu.ca/outlines.html?2024/summer/phil/302/d100" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics </a>
 
 **Fall 2024**
 
@@ -243,5 +256,12 @@ Experience consists of my recent education, work, organization experiences, and 
 
 **Summer 2025**
 
-- Associate Software Developer Intern @ [HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html) - HP Anyware
+- Associate Software Developer Intern @ [HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html) - Platform Engineering
 - <a href="https://www.sfu.ca/students/calendar/2025/summer/courses/iat/210.html" target="_blank">IAT 210 - Introduction to Game Studies: Theory and Design</a>
+
+**Fall 2025**
+
+- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/454.html" target="_blank">CMPT 454 - Databases II </a>
+- <a href="https://www.sfu.ca/outlines.html?2025/fall/cmpt/419/d200" target="_blank">CMPT 419 - Special Topics in AI</a>
+- <a href="https://www.sfu.ca/outlines.html?2025/fall/macm/316/d100" target="_blank">MACM 316 - Numerical Analysis </a>
+- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/phil/332.html" target="_blank">PHIL 332 - Selected Topics, Consciousness </a>
