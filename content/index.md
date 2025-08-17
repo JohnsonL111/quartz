@@ -7,7 +7,7 @@ Hello! I'm Johnson. I am currently studying [Computer Science](https://www.sfu.c
 
 I am a curious software developer who is into Platform Engineering, AppSec, and full-stack.
 
-I'm always looking for ways productivity and philosophy shape how I build and grow!
+I’m always exploring how productivity and philosophy influence the way I build and grow!
 
 Table of Contents:
 
