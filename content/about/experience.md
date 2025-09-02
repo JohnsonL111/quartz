@@ -15,12 +15,12 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Technical Experience
 
-> **Associate Software Developer Intern @ HP** (May 2025) <br> **_Tech Stack: React, Typescript, NestJS, Amazon Web Services, Docker, Kubernetes, bash, Github Actions, Harbor, Splunk, RTL/mocha/chai_**<br>
+> **Associate Software Developer Intern @ HP** (May 2025-Aug 2025) <br> **_Tech Stack: React, Typescript, NestJS, Amazon Web Services, Docker, Kubernetes, bash, Github Actions, Harbor, Splunk, RTL/mocha/chai, nginx_**<br>
 >
 > • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
 <details>
   <summary>More Details</summary>
-  <p>• Developing a full-stack internal compliance reporting tool for Security Vulnerability Analysis on HP service repositories from the ground up. Supports Black Duck, Veracode, Trivy, npm audit, and SonarQube scans. Responsibilities include building the frontend and backend, containerizing the application, integrating with AWS services (S3, Secrets Manager, IAM, DynamoDB), writing unit tests, and leveraging IaaS tooling for CI/CD deployments to Kubernetes with Splunk APM and logging.</p>
+  <p>• Developed the MVP for a full-stack internal compliance reporting tool for Security Vulnerability Analysis on HP service repositories from the ground up. Supports Black Duck, Veracode, Trivy, and npm audit scans. Responsibilities include building the frontend and backend, containerizing the application, integrating with AWS services (S3, Secrets Manager, IAM, EBS, Lambda), writing unit tests, and orchestrating the containerized services onto EC2 via docker compose.</p>
 </details>
 
 ---
@@ -243,7 +243,7 @@ Experience consists of my recent education, work, organization experiences, and 
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/300/d100" target="_blank">CMPT 300 - Operating Systems I </a>
 - <a href="https://www.sfu.ca/outlines.html?2024/summer/cmpt/353/d100" target="_blank">CMPT 353 - Computational Data Science </a>
 - <a href="https://www.sfu.ca/outlines.html?2023/fall/cmpt/365/d100" target="_blank">CMPT 365 - Multimedia Systems </a>
-- <a href="https://www.sfu.ca/outlines.html?2024/summer/phil/302/d100" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics </a>
+- <a href="https://www.sfu.ca/outlines.html?2024/summer/phil/302/d100" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics, Medicine </a>
 
 **Fall 2024**
 
@@ -264,4 +264,4 @@ Experience consists of my recent education, work, organization experiences, and 
 - <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/454.html" target="_blank">CMPT 454 - Databases II </a>
 - <a href="https://www.sfu.ca/outlines.html?2025/fall/cmpt/419/d200" target="_blank">CMPT 419 - Special Topics in AI</a>
 - <a href="https://www.sfu.ca/outlines.html?2025/fall/macm/316/d100" target="_blank">MACM 316 - Numerical Analysis </a>
-- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/phil/332.html" target="_blank">PHIL 332 - Selected Topics, Consciousness </a>
+- <a href="https://www.sfu.ca/outlines.html?2025/fall/phil/302/d200" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics, Possibility </a>
