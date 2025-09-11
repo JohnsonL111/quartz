@@ -264,4 +264,4 @@ Experience consists of my recent education, work, organization experiences, and 
 - <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/454.html" target="_blank">CMPT 454 - Databases II </a>
 - <a href="https://www.sfu.ca/outlines.html?2025/fall/cmpt/419/d200" target="_blank">CMPT 419 - Special Topics in AI</a>
 - <a href="https://www.sfu.ca/outlines.html?2025/fall/macm/316/d100" target="_blank">MACM 316 - Numerical Analysis </a>
-- <a href="https://www.sfu.ca/outlines.html?2025/fall/phil/302/d200" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics, Possibility </a>
+- <a href="https://www.sfu.ca/outlines.html?2025/fall/phil/302/d200" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics, Modality </a>
