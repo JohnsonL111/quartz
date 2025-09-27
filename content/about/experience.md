@@ -20,7 +20,7 @@ Experience consists of my recent education, work, organization experiences, and 
 > • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
 <details>
   <summary>More Details</summary>
-  <p>• Developed the MVP for a full-stack internal compliance reporting tool for Security Vulnerability Analysis on HP service repositories from the ground up. Supports Black Duck, Veracode, Trivy, and npm audit scans. Responsibilities include building the frontend and backend, containerizing the application, integrating with AWS services (S3, Secrets Manager, IAM, EBS, Lambda), writing unit tests, and orchestrating the containerized services onto EC2 via docker compose.</p>
+  <p>• Developed the MVP for a full-stack internal compliance reporting tool for Security Vulnerability Analysis on HP service repositories from the ground up. Supports compliance validation on Black Duck, Veracode, Trivy, and npm audit scans. Responsibilities include building the frontend (react/typescript) and backend (nestJS/typescript), containerizing the application (docker/Harbor), integrating with AWS services (S3, Secrets Manager, IAM, EBS, Lambda), writing unit tests (mocha/chai,vitest), developing the github app for HP org buy-in, and orchestrating the containerized services onto EC2 via docker compose.</p>
 </details>
 
 ---
@@ -95,15 +95,18 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Volunteer/Leadership Experience
 
-> **Technical Project Lead @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
-> • Tech Lead for a team of devs and designers working on developing a new website integrated with a new CMS to easily manage programs, films, and other content for Reel Youth. Reel Youth is an NPO that offers grassroots film making programs for underpriviledged youth. <br>
+> **Technical Project Lead/Lead Dev @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
+> • Tech Lead for a team of devs and designers working on developing a new mobile-first website for Reel Youth from 0->1. This website's content is integrated with a new from ground-up headless wordpress CMS to help RY easily manage marketing, programs, films, and other content to display to visitors. Reel Youth is an NPO that offers grassroots film making programs for underpriviledged youth.<br>
+• <a href="https://reelyouth-demo.xyz/" target="_blank" rel="noopener noreferrer">https://reelyouth-demo.xyz/</a>
 
 <details>
   <summary>More Details</summary>
   <p>
-    • Work closely with NPO and PM as a student Technical Lead/Dev overseeing a team of devs and designers for a project to develop a new modern responsive website for Reel Youth: an NPO offering film making programs for aspiring film makers. 20+ YOE, 2600+ short films created, 7400+ youth impacted.<br><br>
-    • Acted as both technical lead and core developer for the project, collaborating with stakeholders to define timelines, designing epics, mentoring developers, contributing directly to the codebase, and creating technical tutorials to support onboarding and development.<br><br>
-    • Challenges: Scalability and maintainability post-hand off (CMS-first data store/headless CMS approach), migration of old films to new platform, deployment and designing technical architecture to minimize costs and scale project.<br><br>
+    • Work closely with NPO and PM as a student Technical Lead/Dev overseeing a team of devs and designers in an agile approach (meeting once a week for scrum) for a project to develop a new modern responsive website for Reel Youth: an NPO offering film making programs for aspiring film makers. 20+ YOE, 2600+ short films created, 7400+ youth impacted.<br><br>
+    • Acted as both technical lead/scrum master (agile) and core developer for the project, collaborating with stakeholders (3 person NPO) to define timelines, designing project milestones (epics), mentoring developers, contributing directly to the codebase (owned Released Programs epic), interviewing of developers, and creating technical tutorials to support onboarding and development of developers.<br><br>
+    • Setup the CI/CD process and governance from dev->prod including cloudflare deployment for the project,pipelines, and automated PR quality checks; additionally setup the supabase instance, wordpress content backend on hostinger, and setup processes for RY to easily reflect content updates to production without touching the code via clickable webhook in the WP admin portal.<br><br>
+    • Utilized Static Site Generation to allow for maximal SEO and cloudflare distributed CDN for fast site loads geographically. <br><br>
+    • Challenges: Scalability and maintainability post-hand off (CMS-first data store/headless CMS approach), migration of old films to new platform, deployment and designing technical architecture to minimize costs for NPO and scale project.<br><br>
   </p>
 </details>
 
@@ -111,13 +114,13 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Senior Project Developer @ SFU Blueprint** (Feb 2024 - Sept 2024) <br> **_Tech Stack: React, Tailwind, Python, Flask, Neo4J, langchain_** <br>
 > • Senior Project Dev in a team of 5 to develop an AI chatbot for MOSAIC: a non-profit supporting Canadian immigrants. <br>
-
+> • https://mosaicmate.vercel.app/ <br>
 <details>
   <summary>More Details</summary>
   <p>
-    • Improved accuracy of LLM responses by 50% through improving on flask API endpoint dealing with RAG workflow w/ LLM utilizing python, langchain, and Neo4j vector embeddings.<br><br>
-    • Spearheaded devEx enhancements such as by creating front/backend bash startup scripts and by encouraging use of conventional commits specification and branch-issue github workflow.<br><br>
-    • Led integration of React/Flask app into Wordpress website using ReactPress and Local (flywheel) for testing resulting in 100% feature parity.<br><br>
+    • Worked on GPT-4 based chatbot capable of answering questions about the client's website and services, using Flask, LangChain and React <br><br>
+    • Managed clients data on a the Neo4j graph database and collaboratively implemented the bot to send Cypher Queries to the database for information retrieval. <br><br>
+    • Led POC integration of React/Flask app to be embeddable in a Wordpress website using ReactPress and Local (flywheel) for testing resulting in 100% feature parity.<br><br>
   </p>
 </details>
 
@@ -129,7 +132,8 @@ Experience consists of my recent education, work, organization experiences, and 
 <details>
   <summary>More Details</summary>
   <p>
-    • Repaired 5 outdated end-to-end jest-based integration test suites and translated 3 API endpoints from OrchaJS to NestJS within typescript monorepo codebase.<br><br>
+    • Translated 3 API endpoints from OrchaJS (legacy, non-maintained custom backend) to NestJS within typescript monorepo codebase.<br><br>
+    • Repaired 5 outdated end-to-end jest-based integration test suites to interop properly with updated API endpoints. <br><br>
     • Mentored junior developers on full-stack concepts, local developer setup (firebase, docker, scripts etc.,), and postman API testing.<br><br>
   </p>
 </details>
@@ -137,7 +141,7 @@ Experience consists of my recent education, work, organization experiences, and 
 ---
 
 > **Co-President @ SFU-Surge** (Aug. 2023 - June 2024) <br> **_Links: [Main Site](https://sfusurge.com/) | [Stormhacks](https://stormhacks.com/) | [Join Club Here!](https://go.sfss.ca/clubs/831/info)_** <br> **_Previously: Co-Director of External Relations (Feb. 2023 - Sept. 2023) | Social Media Coordinator (May. 2022 - Feb. 2023)_** <br>
-> • Co-Prez for SFU’s premier tech club and host of StormHacks, SFU’s largest and only Major League Hacking (MLH) hackathon, dedicated to empowering students with practical experience in the tech industry.
+> • Co-Prez for SFU’s premier tech club and host of StormHacks, SFU’s largest and only Major League Hacking (MLH) hackathon, dedicated to empowering students with practical experiences in the tech industry.
 
 <details>
   <summary>More Details</summary>
