@@ -20,7 +20,7 @@ Experience consists of my recent education, work, organization experiences, and 
 > • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
 <details>
   <summary>More Details</summary>
-  <p>• Developed the MVP for a full-stack internal compliance reporting tool envisioned by the platform architect for Security Vulnerability Analysis on HP service repositories from the ground up. Supports compliance validation on Black Duck, Veracode, Trivy, and npm audit scans. Responsibilities include building the frontend (react/typescript) and backend (nestJS/typescript), containerizing the application (docker/Harbor), integrating with AWS services (S3, Secrets Manager, IAM, EBS, Lambda), writing unit tests (mocha/chai,vitest), developing the github app for HP org buy-in, and orchestrating the containerized services onto EC2 via docker compose.</p>
+  <p>• Developed the MVP for a full-stack centralized internal compliance reporting tool envisioned by the platform architect for Security Vulnerability Analysis on HP service repositories from the ground up. Supports compliance validation on Black Duck, Veracode, Trivy, and npm audit scans. Responsibilities include building the frontend (react/typescript) and backend (nestJS/typescript), designing & creating the db schema for scan metadata (postgres), containerizing the application (docker/Harbor), integrating with AWS services (S3, Secrets Manager, IAM, EBS, Lambda), writing unit tests (mocha/chai,vitest), developing the github app for HP org buy-in, and orchestrating the containerized services onto EC2 via docker compose.</p>
 </details>
 
 ---
