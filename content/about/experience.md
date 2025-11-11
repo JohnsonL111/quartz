@@ -21,11 +21,12 @@ Experience consists of my recent education, work, organization experiences, and 
 <details>
   <summary>More Details</summary>
   <p>• Developed the MVP for a full-stack centralized internal compliance reporting tool envisioned by the platform architect for Security Vulnerability Analysis on HP service repositories from the ground up. Supports compliance validation on Black Duck, Veracode, Trivy, and npm audit scans. Responsibilities include building the frontend (react/typescript) and backend (nestJS/typescript), designing & creating the db schema for scan metadata (postgres), containerizing the application (docker/Harbor), integrating with AWS services (S3, Secrets Manager, IAM, EBS, Lambda), writing unit tests (mocha/chai,vitest), developing the github app for HP org buy-in, and orchestrating the containerized services onto EC2 via docker compose.</p>
+  <p>• Monitored Datadog dashboards for Kubernetes clusters of our typescript/node microservice-based product and pair-debugged live reliability issues to maintain SaaS product SLOs.</p>
 </details>
 
 ---
 
-> **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, lots of Powershell, Ansible, Azure Cloud Services, Github Actions, Artifactory_** <br>
+> **Software Engineer Intern @ Motorola Solutions** (Sept 2024-May 2025) <br> **_Tech Stack: .NET Core, Terraform, Docker, Kubernetes, lots of Powershell, Ansible, Azure Cloud Services, Github Actions, Artifactory, Prometheus_** <br>
 >
 > • SWE on the DevEx/Enablement Tools team responsible for Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal CICD automation tooling and libraries), and internal PaaS web application development for the Unity Video Product. <br>
 <details>
@@ -95,7 +96,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Volunteer/Leadership Experience
 
-> **Technical Project Lead/Lead Dev @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, faustjs, Supabase, Storybook, Headless Wordpress** <br>
+> **Technical Project Lead/Lead Dev @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, GraphQL/Apollo, faustjs, Supabase, Storybook, Headless Wordpress** <br>
 > • Tech Lead for a team of devs and designers working on developing a new mobile-first website for Reel Youth from 0->1. This website's content is integrated with a new from ground-up headless wordpress CMS to help RY easily manage marketing, programs, films, and other content to display to visitors. Reel Youth is an NPO that offers grassroots film making programs for underpriviledged youth.<br>
 • <a href="https://reelyouth-demo.xyz/" target="_blank" rel="noopener noreferrer">https://reelyouth-demo.xyz/</a>
 
