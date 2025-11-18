@@ -7,6 +7,8 @@ Hello! I'm Johnson. I am currently studying [Computer Science](https://www.sfu.c
 
 I am a curious software developer who is into Full-Stack Development & Platform Engineering (devops & cloud/infra).
 
+I'm also interested in designing scalable distributed systems and big picture thinking.
+
 I’m always exploring how productivity and philosophy influence the way I build and grow!
 
 Table of Contents:
