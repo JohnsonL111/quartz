@@ -20,9 +20,11 @@ Experience consists of my recent education, work, organization experiences, and 
 > • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
 <details>
   <summary>More Details</summary>
-  <p>• Developed the MVP for a full-stack centralized internal compliance reporting tool envisioned by the platform architect for Security Vulnerability Analysis on HP service repositories from the ground up. Supports compliance validation on Black Duck, Veracode, Trivy, and npm audit scans. Responsibilities include building the frontend (react/typescript) and backend (nestJS/typescript), designing & creating the db schema for scan metadata (postgres), containerizing the application (docker/Harbor), integrating with AWS services (S3, Secrets Manager, IAM, EBS, Lambda), writing unit tests (mocha/chai,vitest), developing the github app for HP org buy-in, and orchestrating the containerized services onto EC2 via docker compose.</p>
-  <p>• Monitored Datadog dashboards for Kubernetes clusters of our typescript/node microservice-based product and pair-debugged live reliability issues to maintain SaaS product SLOs.</p>
+  <p>• Owned deliverable to build an internal security observability platform for HP repos for SOC 2 compliance automation with centralized vulnerability scans (Trivy, Black Duck, npm, Veracode), repo/org health, & on-ingress vulnerability extraction at scale.</p>
+  <p>• Implemented its frontend with React/Typescript, backend APIs with NestJS interacting with S3/Github/DB, Github App + OAuth2 SSO for user/org buy-in, AppSec report ETL w/ python/lambda/postgresSQL, & orchestrated services via docker compose on EC2.</p>
+  <p>• Monitored Datadog dashboards of production Kubernetes clusters of node microservices and pair-debugged live reliability issues to maintain SaaS product SLOs.</p>
 </details>
+
 
 ---
 
@@ -31,12 +33,10 @@ Experience consists of my recent education, work, organization experiences, and 
 > • SWE on the DevEx/Enablement Tools team responsible for Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal CICD automation tooling and libraries), and internal PaaS web application development for the Unity Video Product. <br>
 <details>
   <summary>More Details</summary>
-  <p>• Developed a PowerShell CLI tool to generate SLSA provenance between Unity video builds, providing a structured history across 20+ C# microservices and C++ components for integration into release pipelines for compliance and used ad-hoc for debugging.</p>
-  <p>• Contributed a feature to the nightly on-prem CI test environment allowing dev product teams to access real camera hardware in their tests through static IP addressing (as opposed to cam sims).</p>
-  <p>• Contributed a feature to Ansible playbooks for build infrastructure setup which allowed dev product teams to access machines using VNC, solving an issue with UI tests failing.</p>
-  <p>• Maintained and debugged Terraform IaaC tooling with Azure and PowerShell, enabling developers to spin up 120+ clustered video servers and camera simulators for tests.</p>
-  <p>• Shephered show-stopping bug fixes & QOL improvements in bamboo release automation tooling & ERN generation leading to increased adoption of the tools by the release team</p>
-  <p>• Diagnosed and debugged various networking issues with on-prem test machines in the server room and for our large-scale distributed camera simulator system, including fixing network issues and optimizing latency by reducing network hops.</p>
+  <p>• Supported development of a PowerShell CLI tool that generates SLSA provenance in SaaS CI/CD pipelines (GitHub, ADO, JFrog), enabling reliable supply-chain traceability and accelerating debugging across 10+ C# microservices and C++ services.</p>
+  <p>• Configured VNC access within Ansible playbooks to enable secure remote UI testing on dev nodes, and diagnosed/resolved complex network partitions across a 30+ node on-prem distributed system monitored via Prometheus with a self-service Docker-based Vue/Node PaaS.</p>
+  <p>• Fixed 15+ bugs and delivered multiple QoL improvements across release automation tooling (PowerShell/bash libraries and CI/CD utilities) used by the release engineering team.</p>
+  <p>• Maintained and debugged Terraform IaC (Azure + PowerShell), enabling rapid provisioning of cloud resources for large-scale load and performance tests.</p>
 </details>
 
 ---
