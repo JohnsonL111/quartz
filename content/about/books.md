@@ -5,6 +5,8 @@ date: 2024/04/11
 
 > Books are a great past-time. Though, I'm fairly on and off with reading. I hope to be more consistent in the future. Nowadays; however, when I do I read I tend to gravitate towards books related to fantasy, productivity, leadership, and self-book. In the past (aka in high school) I enjoyed reading mainly YA Fantasy novels. This is a catalogue of books I've read for fun in my Uni years.
 
+I write (some) amateur book reviews on my [goodreads](https://www.goodreads.com/user/show/67002801-johnson).
+
 ## 2025 Bookshelf
 • <a href="https://www.goodreads.com/book/show/169485073-the-strength-of-the-few" target="_blank">The Strength of the Few, James Islington</a> <br>
 • <a href="https://www.goodreads.com/book/show/58416952-the-will-of-the-many" target="_blank">The Will of the Many, James Islington</a> <br>
