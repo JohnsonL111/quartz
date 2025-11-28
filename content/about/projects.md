@@ -8,7 +8,18 @@ date: 2023/12/03
   <link rel="stylesheet" href="../style.css">
 </head>
 
-Software projects that I've built/contributed to.
+> Software projects that I've built/contributed to.
+
+## AI Edge Bot Access Control & Observability
+
+![ai-edge-bot](../posts/attachments/ai-edge-bot.png)
+![architecture](../posts/attachments/architectural_diagram.png)
+
+I built an AI-focused bot access control layer that runs at the CDN edge, allowing users to generate and enforce `robots.txt` rules per-crawler using AWS CloudFront + Lambda@Edge. The system inspects CloudFront logs streamed through S3 and SQS into an analytics Lambda, which aggregates per-bot, per-path metrics into DynamoDB. A React-based dashboard lets site owners configure bot policies, view allowed vs. disallowed traffic over time, and safely test changes without redeploying the site.
+
+Stack: AWS CloudFront, Lambda@Edge, S3, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS
+
+<a target="_blank" href="https://github.com/JohnsonL111/botbouncer">GitHub</a>&emsp;
 
 ## InvolveMINT
 

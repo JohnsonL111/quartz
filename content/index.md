@@ -16,9 +16,12 @@ Finally, I’m always exploring how productivity and philosophy influence the wa
 
 Table of Contents:
 
-- [Posts](posts/) I have shared to the internet.
-- [Experience](about/experience.md) or summary of what I have done.
-- [Books](about/books.md) I have read.
+
+- [Posts](posts/) - random uncurated streams of consciousness.
+- [Experience](about/experience.md) - my resume.
 - [Projects](about/projects.md) that I've worked on.
+- [Courses](/about/courses.md) - the trials and tribulations of a student.
+- [Books](about/books.md) on my bookshelf.
+
 
 <img src="../posts/attachments/surge_picjpg.jpg" alt="pic" style="width: 400px; height: auto;">
