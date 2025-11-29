@@ -17,7 +17,7 @@ date: 2024/09/12
 
 > **Associate Software Developer Intern @ HP** (May 2025-Aug 2025) <br> **_Tech Stack: React, Typescript, NestJS, Amazon Web Services, Docker, Kubernetes, bash, Github Actions, Harbor, Splunk, RTL/mocha/chai, nginx_**<br>
 >
-> • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security). <br>
+> • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security) primarily doing devops/sre work with focus on security/compliance/ops. <br>
 <details>
   <summary>More Details</summary>
   <p>• Owned deliverable to build an internal security observability platform for HP repos for SOC 2 compliance automation with centralized vulnerability scans (Trivy, Black Duck, npm, Veracode), repo/org health, & on-ingress vulnerability extraction at scale.</p>
@@ -97,7 +97,7 @@ date: 2024/09/12
 ## Volunteer/Leadership Experience
 
 > **Technical Project Lead/Lead Dev @ SFU Blueprint** (May 2024 - Present) <br> **Tech Stack: Next.js, Typescript, GraphQL/Apollo, faustjs, Supabase, Storybook, Headless Wordpress** <br>
-> • Tech Lead for a team of devs and designers working on developing a new mobile-first website for Reel Youth from 0->1. This website's content is integrated with a new from ground-up headless wordpress CMS to help RY easily manage marketing, programs, films, and other content to display to visitors. Reel Youth is an NPO that offers grassroots film making programs for underpriviledged youth.<br>
+> • Tech Lead for a team of devs and designers working on developing a new mobile-first website for Reel Youth from 0->1. This website's content is integrated with a new from ground-up headless wordpress CMS w/ 15+ custom post types based on NPO needs to help RY easily manage marketing, programs, films, and other content to display to visitors. Reel Youth is an NPO that offers grassroots film making programs for underpriviledged youth.<br>
 • <a href="https://reelyouth-demo.xyz/" target="_blank" rel="noopener noreferrer">https://reelyouth-demo.xyz/</a>
 
 <details>
@@ -155,10 +155,10 @@ date: 2024/09/12
 
 ---
 
-> **Director of Communications @ SFU Computing Science Student Society (SFU CSSS)** (April. 2021 - May. 2023) <br> **_Links: [Main Site](https://sfucsss.org/)_** <br> **_Previously: First Year Representative (Sept. 2020 - April. 2021)_** <br>
+> **Director of Communications (Social Media Manager) @ SFU Computing Science Student Society (SFU CSSS)** (April. 2021 - May. 2023) <br> **_Links: [Main Site](https://sfucsss.org/)_** <br> **_Previously: First Year Representative (Sept. 2020 - April. 2021)_** <br>
 >
 > • Managed the CSSS social media accounts and liaisoned with external parties <br>
-> • Wrote and distributed Biweekly email Newsletters using Mailchimp detailing cool tech events happening at SFU and beyond <br>
+> • Started a new newsletter initiative: Wrote and distributed <a href="../posts/attachments/Biweekly CSSS Newsletter_ 22nd edition.html" target="_blank" rel="noopener noreferrer">biweekly newsletters</a> using Mailchimp detailing cool tech events happening at SFU and beyond. <br>
 > • Arbitrated decision making on the [CSSS Discord](https://discord.gg/sfucsss) <br>
 
 ---
