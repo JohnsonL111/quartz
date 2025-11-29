@@ -8,7 +8,7 @@ Hello! I'm Johnson. I am currently studying [Computer Science](https://www.sfu.c
 I've previously worked at **[HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html)** on platform/security observability for their high-performance remote work software, **[Motorola Solutions](https://www.motorolasolutions.com/)** on DevEx tooling, CI/CD Pipelines, and platforms that enabled engineers to manage distributed infrastructure at scale for their video surveillance org, **[ICBC](https://www.icbc.com/)** on web portals & services, **[Powerex](https://www.powerex.com/)** on data platform/governance for energy traders, and **[Peloton Technologies](https://www.peloton-technologies.com/)** on their SaaS payments platform.
 
 
-I am a curious software developer who is into Full-Stack Development & Platform Engineering (devops & cloud/infra).
+I am a curious software developer who is into Platform Engineering (devops & cloud/infra) & Full-Stack development.
 
 I'm also interested in designing scalable distributed systems and big picture thinking in general.
 
