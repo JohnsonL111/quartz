@@ -3,7 +3,7 @@ title: 🏡 Home
 date: 2023/12/13
 ---
 
-Hello! I'm Johnson. I am currently studying [Computer Science](https://www.sfu.ca/computing.html) and minoring in [Philosophy](https://www.sfu.ca/philosophy.html) at Simon Fraser University. *Currently seeking for 2026 new grad roles (or will extend grad to do do more coops😅)!
+Hello! I'm Johnson. I am currently studying [Computer Science](https://www.sfu.ca/computing.html) and minoring in [Philosophy](https://www.sfu.ca/philosophy.html) at Simon Fraser University. *Currently seeking for 2026 new grad roles (or will extend grad to do do more coops😁)!
 
 I've previously worked at **[HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html)** on platform/security observability for their high-performance remote work software, **[Motorola Solutions](https://www.motorolasolutions.com/)** on DevEx tooling, CI/CD Pipelines, and platforms that enabled engineers to manage distributed infrastructure at scale for their video surveillance org, **[ICBC](https://www.icbc.com/)** on web portals & services, **[Powerex](https://www.powerex.com/)** on data platform/governance for energy traders, and **[Peloton Technologies](https://www.peloton-technologies.com/)** on their SaaS payments platform.
 
