@@ -20,8 +20,8 @@ date: 2024/09/12
 > • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security) primarily doing devops/sre work with focus on security/compliance/ops. <br>
 <details>
   <summary>More Details</summary>
-  <p>• Owned deliverable to build an internal security observability platform for HP repos for SOC 2 compliance automation with centralized vulnerability scans (Trivy, Black Duck, npm, Veracode), repo/org health, & on-ingress vulnerability extraction at scale.</p>
-  <p>• Implemented its frontend with React/Typescript, backend APIs with NestJS interacting with S3/Github/DB, Github App + OAuth2 SSO for user/org buy-in, AppSec report ETL w/ python/lambda/postgresSQL, & orchestrated services via docker compose on EC2.</p>
+  <p>•	Owned project e2e to build an internal security observability platform for HP repos for SOC2 compliance automation with jira automation, centralized scans (veracode, blackduck, trivy, npm), repo/org health, & on-ingress vulnerability (CVE) ETL at scale.</p>
+  <p>•  Implemented its frontend with React/Typescript, NestJS (nodeJS) REST APIs interacting with S3/Github/DB, Github App + OAuth2 SSO for user/org buy-in, AppSec report ETL w/ python/lambda/postgresSQL, & orchestrated services via docker swarm on EC2. </p>
   <p>• Monitored Datadog dashboards of production Kubernetes clusters of node microservices and pair-debugged live reliability issues to maintain SaaS product SLOs.</p>
 </details>
 
@@ -33,16 +33,16 @@ date: 2024/09/12
 > • SWE on the DevEx/Enablement Tools team responsible for Platform Infrastucture Tooling (cloud, on-prem), developer experience (internal CICD automation tooling and libraries), and internal PaaS web application development for the Unity Video Product. <br>
 <details>
   <summary>More Details</summary>
-  <p>• Supported development of a PowerShell CLI tool that generates SLSA provenance in SaaS CI/CD pipelines (GitHub, ADO, JFrog), enabling reliable supply-chain traceability and accelerating debugging across 10+ C# microservices and C++ services.</p>
-  <p>• Configured VNC access within Ansible playbooks to enable secure remote UI testing on dev nodes, and diagnosed/resolved complex network partitions across a 30+ node on-prem distributed system monitored via Prometheus with a self-service Docker-based Vue/Node PaaS.</p>
-  <p>• Fixed 15+ bugs and delivered multiple QoL improvements across release automation tooling (PowerShell/bash libraries and CI/CD utilities) used by the release engineering team.</p>
-  <p>• Maintained and debugged Terraform IaC (Azure + PowerShell), enabling rapid provisioning of cloud resources for large-scale load and performance tests.</p>
+  <p>• Engineered a PowerShell CLI tool to generate SLSA provenance in SaaS CI/CD builds via GitHub/ADO/JFrog APIs enabling reliable supply-chain traceability in builds & as a Github Actions dev tool to improve debugging across 10+ C# microservices/C++ services.</p>
+  <p>• Resolved complex network partitions across 30+ node on-prem distributed system monitored by Prometheus for a Vue platform to provision product-versioned env at scale & configured VNC in Ansible Playbooks to enable secure dev testing on remote nodes..</p>
+  <p>•	Added various QoL features/fixed bugs for build, test, & release (PS/bash automation, CI/CD workflows, docker img optimization).</p>
+  <p>•	Maintained & debugged Terraform IaaC, enabling developers to easily load/regression test on camera simulators/servers at scale.</p>
 </details>
 
 ---
 
-> **Full-Stack Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
-> • Full-Stack Developer on the Portals/Procedures Services Team handling ICBC.com and any self-service portals for internal and external users. <br><br>
+> **Software Developer Intern @ ICBC** (Jan. 2024 - May 2024) <br> **_Tech Stack: Next (React), Typescript, NodeJS, GraphQL/Apollo, Tailwind, Contentful Headless CMS, ASP/JSP, Jenkins_** <br>
+> • 70% Frontend Developer and 30% backend dev on the Portals/Procedures Services Team handling ICBC.com and any self-service portals for internal and external users using next.js (react), typescript, tailwind, graphQL, storybook, and contentful headless CMS. <br><br>
 
 <details>
   <summary>More Details</summary>
@@ -57,14 +57,14 @@ date: 2024/09/12
 ---
 
 > **Software Developer Intern @ Powerex** (Jan. 2023 – August. 2023) <br> **_Tech Stack: C#/.NET, React.js, ASP.NET MVC/Web APIs, Entity Framework (EF6), Teamcity CI/CD, SQL, VBA, Selenium, TFS, SSIS, Snowflake, MSSQL, Oracle_** <br>
-> • Developer on the Analytics team delivering internal tools used by quants and traders for energy trading under BC Hydro. <br><br>
+> • Developer on the front office data platform team maintaining various internal tools and data services contributing to the availability/reliability of various data lakes, warehouses, and databases critical to quants and traders energy trading under BC Hydro. <br><br>
 
 <details>
   <summary>More Details</summary>
   <p>
-    • Developed 4 parallelized C#/.NET ETL API/Web Scrapers that process large-scale gas/energy data daily to guide trade decisions.<br><br>
+    • Developed 4 new & extended/maintained tons of C#/Python/SQL services supporting the 24x7 reliability of the trading platform.<br><br>
     • Maintained and extended a suite of 150+ C# data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability.<br><br>
-    • Designed and developed C#/.NET APIs and a React frontend for a portal to allow admins to interact with notification data (CRUD).<br><br>
+    • Engineered various C#/.NET REST APIs and React components for an internal site to allow traders to visualize/filter energy data.<br><br>
     • Developed SQL tables and views to structure and categorize energy data, and wrote data migration scripts to transfer datasets from Microsoft SQL Server (MSSQL) to Snowflake.<br><br>
     • Built interactive VBA Macros interacting with SQL/Snowflake to support WECC data refresh/archive for an internal workbook used by quants.<br><br>
     • Led the migration of an SSIS ETL pipeline and related jobs to a modernized C#/.NET Windows Service, improving maintainability and infrastructure reliability after external data fragmentation.<br><br>
