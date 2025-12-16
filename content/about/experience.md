@@ -7,7 +7,7 @@ date: 2024/09/12
 
 ## Education
 
-> **Simon Fraser University** (Sept 2020 - Current) <br>
+> **Simon Fraser University** (Sept 2020 - May 2026) <br>
 > Bachelor of Science, Major in Computer Science, Minor in Philosophy <br>
 
 > **Britannia Secondary School** (Sep. 2015- May. 2020) <br>

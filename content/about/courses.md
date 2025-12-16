@@ -101,7 +101,7 @@ date: 2025/11/28
 
 **Spring 2026**
 
-- <a href="https://www.sfu.ca/outlines.html?2026/spring/cmpt/473/e100" target="_blank">CMPT 473 - Software Testing, Relability and Security </a>
+- <a href="https://www.sfu.ca/outlines.html?2026/spring/cmpt/473/e100" target="_blank">CMPT 473 - Software Testing, Reliability and Security </a>
 - <a href="https://github.com/drbfraser/HHA-HaitiHospital" target="_blank">CMPT 415 - Special Research Projects 
 - <a href="https://www.sfu.ca/outlines.html?2026/spring/phil/331/d100" target="_blank">PHIL 331 - Philosophy of Aesthetics </a>
 - <a href="https://www.sfu.ca/outlines.html?2026/spring/phil/322/d100" target="_blank">PHIL 322 - Ethics </a>
