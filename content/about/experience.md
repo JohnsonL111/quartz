@@ -20,10 +20,11 @@ date: 2024/09/12
 > • Developer Working in the HP Anyware Manager org (control plane for Anyware PCoIP protocol) on the Platform Team (CICD, Cloud, Observability, and Security) primarily doing devops/sre work with focus on security/compliance/ops. <br>
 <details>
   <summary>More Details</summary>
-  <p>•	Owned project e2e to build an internal security observability platform for HP repos for SOC2 compliance automation with jira automation, centralized scans (veracode, blackduck, trivy, npm), repo/org health, & on-ingress vulnerability (CVE) ETL at scale.</p>
-  <p>•  Implemented its frontend with React/Typescript, NestJS (nodeJS) REST APIs interacting with S3/Github/DB, Github App + OAuth2 SSO for user/org buy-in, AppSec report ETL w/ python/lambda/postgresSQL, & orchestrated services via docker swarm on EC2. </p>
-  <p>• Monitored Datadog dashboards of production Kubernetes clusters of node microservices and pair-debugged live reliability issues to maintain SaaS product SLOs.</p>
+  <p>• Owned end-to-end engineering of a scalable internal security observability platform, improving auditing compliance by 70% via unifying vulnerabilities across 6 AppSec tools and tracking remediation progress over time against SOC 2 audit expectations.</p>
+  <p>• Implemented its frontend with React/Typescript, NestJS (nodeJS) REST APIs interacting with S3/Github/DB, Github App + OAuth2 SSO for org buy-in, AppSec ETL w/ python/lambda/S3/postgresSQL, and orchestrated highly available services w/ docker swarm.</p>
+  <p>• Monitored live Kubernetes clusters (Datadog/PagerDuty) & participated in live incident remediation to maintain strict SaaS SLOs.</p>
 </details>
+
 
 
 ---
@@ -34,10 +35,11 @@ date: 2024/09/12
 <details>
   <summary>More Details</summary>
   <p>• Engineered a PowerShell CLI tool to generate SLSA provenance in SaaS CI/CD builds via GitHub/ADO/JFrog APIs enabling reliable supply-chain traceability in builds & as a Github Actions dev tool to improve debugging across 10+ C# microservices/C++ services.</p>
-  <p>• Resolved complex network partitions across 30+ node on-prem distributed system monitored by Prometheus for a Vue platform to provision product-versioned env at scale & configured VNC in Ansible Playbooks to enable secure dev testing on remote nodes..</p>
-  <p>•	Added various QoL features/fixed bugs for build, test, & release (PS/bash automation, CI/CD workflows, docker img optimization).</p>
-  <p>•	Maintained & debugged Terraform IaaC, enabling developers to easily load/regression test on camera simulators/servers at scale.</p>
+  <p>• Resolved network partitions across a 30+ node on-prem distributed system (Vue, Node, Prometheus) using packet-level analysis & container-level debugging (Wireshark, Docker CLI), and engineered Ansible playbooks to automate server provisioning at scale.</p>
+  <p>• Improved core CI infra by maintaining high availability of on-prem runners & automating build workflows via bash/powershell.</p>
+  <p>• Maintained & debugged Terraform IaaC, enabling developers to easily load/regression test on camera simulators/servers at scale.</p>
 </details>
+
 
 ---
 
@@ -63,7 +65,7 @@ date: 2024/09/12
   <summary>More Details</summary>
   <p>
     • Developed 4 new & extended/maintained tons of C#/Python/SQL services supporting the 24x7 reliability of the trading platform.<br><br>
-    • Maintained and extended a suite of 150+ C# data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability.<br><br>
+    • Maintained and extended a suite of 150+ C#/python/sql data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability.<br><br>
     • Engineered various C#/.NET REST APIs and React components for an internal site to allow traders to visualize/filter energy data.<br><br>
     • Developed SQL tables and views to structure and categorize energy data, and wrote data migration scripts to transfer datasets from Microsoft SQL Server (MSSQL) to Snowflake.<br><br>
     • Built interactive VBA Macros interacting with SQL/Snowflake to support WECC data refresh/archive for an internal workbook used by quants.<br><br>
@@ -78,11 +80,10 @@ date: 2024/09/12
 
 <details>
   <summary>More Details</summary>
-  <p>
-    • Stomped 7 bugs on client portal (C#/ASP.NET MVC) related to login, AR/AP notifications, and being unable to add CC to account.<br><br>
-    • Converted 15 manual UI tests into automated ones via C#/Playwright such as for bank transfers, adding CCs, authentication etc.<br><br>
-  </p>
+  <p>• Resolved 7 production bugs across a full-stack SaaS platform affecting auth, AR/AP notifications, and credit-card onboarding.</p>
+  <p>• Automated 15 manual UI tests into C#/Playwright tests & integrated them into CI/CD as regression checks for payments/auth.</p>
 </details>
+
 
 ---
 
@@ -105,6 +106,8 @@ date: 2024/09/12
   <p>
     • Work closely with NPO and PM as a student Technical Lead/Dev overseeing a team of devs and designers in an agile approach (meeting once a week for scrum) for a project to develop a new modern responsive website for Reel Youth: an NPO offering film making programs for aspiring film makers. 20+ YOE, 2600+ short films created, 7400+ youth impacted.<br><br>
     • Acted as both technical lead/scrum master (agile) and core developer for the project, collaborating with stakeholders (3 person NPO) to define timelines, designing project milestones (epics), mentoring developers, contributing directly to the codebase (owned Released Programs epic), interviewing of developers, and creating technical tutorials to support onboarding and development of developers.<br><br>
+    • Led a dev/design team to build a headless Next.js site for a filmmaking npo, migrating 2,000+ pieces of content to a scalable CMS.<br><br>
+    • Built scalable CMS data models (15+ custom post types) exposed via GraphQL, standardizing content ex: programs and films.<br><br>
     • Setup the CI/CD process and governance from dev->prod including cloudflare deployment for the project,pipelines, and automated PR quality checks; additionally setup the supabase instance, wordpress content backend on hostinger, and setup processes for RY to easily reflect content updates to production without touching the code via clickable webhook in the WP admin portal.<br><br>
     • Utilized Static Site Generation to allow for maximal SEO and cloudflare distributed CDN for fast site loads geographically. <br><br>
     • Challenges: Scalability and maintainability post-hand off (CMS-first data store/headless CMS approach), migration of old films to new platform, deployment and designing technical architecture to minimize costs for NPO and scale project.<br><br>
