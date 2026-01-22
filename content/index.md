@@ -15,7 +15,7 @@ When I’m not coding, you’ll usually find me paddling, reading, or trying to 
 
 Table of Contents:
 
-- [Posts](posts/) - random uncurated streams of consciousness.
+- [Posts](posts/) - amateur blogs.
 - [Experience](about/experience.md) - my resume.
 - [Projects](about/projects.md) that I've worked on.
 - [Courses](/about/courses.md) - the trials and tribulations of a student.
