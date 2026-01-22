@@ -3,16 +3,17 @@ title: 🏡 Home
 date: 2023/12/13
 ---
 
-Hello! I'm Johnson. I am currently studying [Computer Science](https://www.sfu.ca/computing.html) and minoring in [Philosophy](https://www.sfu.ca/philosophy.html) at Simon Fraser University. *Currently seeking for 2026 new grad roles (or will extend grad to do do more coops😁)!
+Hi! I’m **Johnson**, a Computer Science student with a Philosophy minor at **Simon Fraser University**. I’m currently looking for **2026 new-grad roles**, and am also open to extending my degree to pursue additional co-ops.
 
-I've previously worked at **[HP](https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html)** on SRE/security observability + compliance automation for their high-performance remote work stations, **[Motorola Solutions](https://www.motorolasolutions.com/)** on streamlining development, build, test, and release for their flagship video management software, **[ICBC](https://www.icbc.com/)** on web portals & services, **[Powerex](https://www.powerex.com/)** on data platform/governance for energy traders under BC Hydro, and **[Peloton Technologies](https://www.peloton-technologies.com/)** on their SaaS payments platform for SMEs.
+I focus on **platform engineering** (DevOps, cloud, and infrastructure) as well as **full-stack development**, and enjoy working on systems that improve developer productivity and reliability.
 
-I am a curious software developer who specializes in Platform Engineering (devops & cloud/infra) & Full-Stack development.
+I’ve previously worked at **HP**, **Motorola Solutions**, **ICBC**, **Powerex**, and **Peloton Technologies**, contributing to projects spanning site reliability, compliance automation, developer tooling, data platforms, and SaaS infrastructure.
 
-I’m always exploring how productivity and philosophy influence the way I build and grow!
+I’m particularly interested in how **philosophy and systems thinking** shape better software and better teams.
+
+When I’m not coding, you’ll usually find me paddling, reading, or trying to make progress on my ever-growing **Steam Deck** backlog.
 
 Table of Contents:
-
 
 - [Posts](posts/) - random uncurated streams of consciousness.
 - [Experience](about/experience.md) - my resume.

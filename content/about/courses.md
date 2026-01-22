@@ -99,9 +99,9 @@ date: 2025/11/28
 - <a href="https://www.sfu.ca/outlines.html?2025/fall/macm/316/d100" target="_blank">MACM 316 - Numerical Analysis </a>
 - <a href="https://www.sfu.ca/outlines.html?2025/fall/phil/302/d200" target="_blank">PHIL 302 - Topics in Epistomology and Metaphysics, Modality </a>
 
-<!-- **Spring 2026**
+**Spring 2026**
 
 - <a href="https://www.sfu.ca/outlines.html?2026/spring/cmpt/473/e100" target="_blank">CMPT 473 - Software Testing, Reliability and Security </a>
-- <a href="https://github.com/drbfraser/HHA-HaitiHospital" target="_blank">CMPT 415 - Special Research Projects 
+- <a href="https://github.com/drbfraser/HHA-CommunityBasedRehabilitation" target="_blank">CMPT 415 - Special Research Projects 
 - <a href="https://www.sfu.ca/outlines.html?2026/spring/phil/331/d100" target="_blank">PHIL 331 - Philosophy of Aesthetics </a>
-- <a href="https://www.sfu.ca/outlines.html?2026/spring/phil/322/d100" target="_blank">PHIL 322 - Ethics </a> -->
+- <a href="https://www.sfu.ca/outlines.html?2026/spring/phil/322/d100" target="_blank">PHIL 322 - Ethics </a>
