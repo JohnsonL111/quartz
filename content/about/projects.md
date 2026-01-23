@@ -120,9 +120,9 @@ Stack: Next.js, Typescript, GraphQL/Apollo, Faust.js, Supabase (postgres + serve
 ## MOSAIC - AI Conversational ChatBot (Developer)
 ![ai-chatbot](../posts/attachments/mosaic_pic.png)
 
-As a developer on this project my 2 primary contributions were to <br>
+As a developer on this project through SFU blueprint my 2 primary contributions were to <br>
 (1) provide a method to automate the process to update the neo4J graph database with new program data and to <br>
-(2) Provide a POC for transferring the react application to wordpress with full feature parity along with writing documentation on how that is done. 
+(2) Provide a POC for transferring the chatbot react application to wordpress with full feature parity along with writing/filming documentation for the npo to replicate steps.
 
 Stack: React, Typescript, Tailwind, Python, Langchain, Neo4J
 
