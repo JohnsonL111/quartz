@@ -7,7 +7,7 @@ Hi! I’m **Johnson**, a Computer Science student with a Philosophy minor at **S
 
 I focus on **platform engineering** (DevOps, cloud, and infrastructure) as well as **full-stack development**, and enjoy working on systems that improve developer productivity and reliability.
 
-I’ve previously worked at **HP**, **Motorola Solutions**, **ICBC**, **Powerex**, and **Peloton Technologies**, contributing to projects spanning site reliability and compliance, CI/CD and cloud automation, developer tooling, data platforms, and SaaS infrastructure.
+I’ve previously worked at **HP**, **Motorola Solutions**, **ICBC**, **Powerex**, and **Peloton Technologies**, contributing to projects spanning site reliability and compliance, CI/CD and cloud automation, developer tooling, data platforms, and full-stack SaaS development.
 
 I’m particularly interested in how **philosophy and systems thinking** shape better software and better teams.
 
