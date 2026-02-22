@@ -96,7 +96,7 @@ Stack: AWS CloudFront, Lambda@Edge, S3, SQS, API Gateway, DynamoDB, React, Types
 
 <table>
   <tr>
-    <td><a href="ry_about.png" target="_blank"><img src="ry_about.png" width="300"/></a></td>
+    <td><a href="web_architecture (1).png" target="_blank"><img src="web_architecture (1).png" width="300"/></a></td>
     <td><a href="ry_gallery.png" target="_blank"><img src="ry_gallery.png" width="300"/></a></td>
   </tr>
   <tr>
@@ -105,9 +105,9 @@ Stack: AWS CloudFront, Lambda@Edge, S3, SQS, API Gateway, DynamoDB, React, Types
   </tr>
 </table>
 
-As Technical Project Lead at SFU Blueprint, I led a team of developers and designers to build Reel Youth’s new mobile-first website from 0→1 using a fully headless architecture. We created a custom WordPress CMS w/ 15+ custom post types based on the NPOs needs and integrated it with a Next.js/GraphQL frontend, enabling the NPO to easily manage programs, films, and marketing content. 
+As Technical Project Lead at SFU Blueprint, I led a team of developers and designers to build Reel Youth’s new mobile-first website from 0→1 using a fully headless architecture improving accessibility, SEO, and mobile responsiveness. We created a custom WordPress CMS w/ 15+ custom post types based on the NPOs needs and integrated it with a Next.js/Typescript frontend w/ a graphql data api layer, enabling the NPO to easily manage programs, films, and marketing content. 
 
-I met with the client along with the PM/Designers, oversaw technical direction/systems architecture, CI/CD pipelines, developer onboarding, and implemented core features including the page for managing historical films and programs, a manual publish trigger enabling staff to push CMS changes live with one click, and Cloudflare deployment for fast global performance.
+I met with the client along with the PM/Designers, oversaw technical direction/systems architecture, CI/CD pipelines, developer onboarding, and implemented core features including the page for managing historical films and programs, a manual publish trigger enabling staff to push CMS changes live with one click, and Cloudflare deployment/CDN for fast global performance along with integrating multi-stage deployments with a staging and production environment.
 
 Stack: Next.js, Typescript, GraphQL/Apollo, Faust.js, Supabase (postgres + serverless typescript APIs), Storybook, Headless WordPress, Cloudflare
 
