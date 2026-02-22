@@ -21,7 +21,8 @@ date: 2024/09/12
 <details>
   <summary>More Details</summary>
   <p>• Owned end-to-end engineering of a scalable internal security observability platform, improving auditing compliance by 70% via unifying vulnerabilities across 6 AppSec tools and tracking remediation progress over time against SOC 2 audit expectations.</p>
-  <p>• Implemented its frontend with React/Typescript, NestJS (nodeJS) REST APIs interacting with S3/Github/DB, Github App + OAuth2 SSO for org buy-in, AppSec ETL w/ python/lambda/S3/postgresSQL, and orchestrated highly available services w/ docker swarm.</p>
+  <p>• Implemented its frontend with React/Typescript, NestJS (nodeJS) REST APIs interacting with S3/Github/DB, Github App + OAuth2 SSO for org buy-in, AppSec ETL w/ python/lambda/S3/postgresSQL, and orchestrated highly available services w/ docker swarm onto EC2 instances.</p>
+  <p>• Built performant PostgreSQL data layer with Knex.js, optimizing query patterns and versioning schema via migrations for reproducible deployments.
   <p>• Monitored live Kubernetes clusters (Datadog/PagerDuty) & participated in live incident remediation to maintain strict SaaS SLOs.</p>
 </details>
 
@@ -65,7 +66,7 @@ date: 2024/09/12
   <summary>More Details</summary>
   <p>
     • Developed 4 new & extended/maintained tons of C#/Python/SQL services supporting the 24x7 reliability of the trading platform.<br><br>
-    • Maintained and extended a suite of 150+ C#/python/sql data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability.<br><br>
+    • Maintained and extended a suite of 150+ C# + Entity Framework6/python/sql data scrapers by fixing bugs, optimizing performance, and integrating new data sources to enhance coverage and reliability.<br><br>
     • Engineered various C#/.NET REST APIs and React components for an internal site to allow traders to visualize/filter energy data.<br><br>
     • Developed SQL tables and views to structure and categorize energy data, and wrote data migration scripts to transfer datasets from Microsoft SQL Server (MSSQL) to Snowflake.<br><br>
     • Built interactive VBA Macros interacting with SQL/Snowflake to support WECC data refresh/archive for an internal workbook used by quants.<br><br>
