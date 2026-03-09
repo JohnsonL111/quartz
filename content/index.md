@@ -3,7 +3,7 @@ title: 🏡 Home
 date: 2023/12/13
 ---
 
-Hi! I’m **Johnson**, a Computer Science student with a Philosophy minor at **Simon Fraser University**. I’m currently looking for **2026 new-grad roles**, and am also open to extending my degree to pursue additional co-ops.
+Hi! I’m **Johnson**, a Computer Science student with a Philosophy minor at **Simon Fraser University**.
 
 I focus on **full-stack development (react/typescript/node particularly)** and **platform engineering** (DevOps, cloud, and infrastructure), and I enjoy working on scalable systems.
 

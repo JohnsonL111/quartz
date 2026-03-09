@@ -7,13 +7,18 @@ date: 2024/09/12
 
 ## Education
 
-> **Simon Fraser University** (Sept 2020 - Present) <br>
+> **Simon Fraser University** (Sept 2020 - April 2026) <br>
 > Bachelor of Science, Major in Computer Science, Minor in Philosophy <br>
 
 > **Britannia Secondary School** (Sep. 2015- May. 2020) <br>
 > IB Diploma Program <br>
 
 ## Technical Experience
+
+> **Software Engineer I @ Motorola Solutions** <br> 
+> • Returning as a full-time engineer on the DevEx/Enablement Tools team for the fixed-video org.<br>
+
+---
 
 > **Associate Software Developer Intern @ HP** (May 2025-Aug 2025) <br> **_Tech Stack: React, Typescript, NestJS, Amazon Web Services, Docker, Kubernetes, bash, Github Actions, Harbor, Splunk, RTL/mocha/chai, nginx_**<br>
 >
