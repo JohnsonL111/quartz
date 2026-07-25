@@ -20,7 +20,7 @@ Shoutout to Nicholas for teaching this stuff. He is probably never going to see 
 
 The Upanishads start with the question: what is *actually* real? 
 
-Their answer is that beneath everything is a deeper reality called *Brahman*. Your inner self, or *Atman*, isn't really separate from it either. We suffer because we treat ourselves as isolated little beings when the boundary between us and everything else is not as solid as it looks. Liberation comes from recognizing that unity rather than just understanding it as an abstract fact.
+Their answer is that beneath everything is a deeper reality called *Brahman*. Your inner self, or *Atman*, isn't really separate from it either. As a consequence we suffer because we treat ourselves as isolated little beings when the boundary between us and everything else is not as solid as it looks. 
 
 > “That which is the subtle essence, this whole world has for its Self. That is the true. That is the Self.”  
 > — *Chandogya Upanishad*
