@@ -13,6 +13,54 @@ date: 2023/12/03
       gap: 40px;
       margin-top: 20px;
     }
+
+    .project-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 24px 0 8px;
+    }
+
+    .project-filter-input {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .project-filter-label {
+      padding: 7px 14px;
+      border: 1px solid var(--lightgray);
+      border-radius: 999px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      font-weight: 600;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    }
+
+    .project-filter-label:hover {
+      border-color: var(--secondary);
+      color: var(--secondary);
+    }
+
+    .project-filter-input:focus-visible + .project-filter-label {
+      outline: 2px solid var(--secondary);
+      outline-offset: 2px;
+    }
+
+    .project-filter-input:checked + .project-filter-label {
+      color: var(--light);
+      background: var(--secondary);
+      border-color: var(--secondary);
+    }
+
+    body:has(#filter-hackathon:checked) .project-item:not(.category-hackathon),
+    body:has(#filter-course:checked) .project-item:not(.category-course),
+    body:has(#filter-club:checked) .project-item:not(.category-club),
+    body:has(#filter-personal:checked) .project-item:not(.category-personal) {
+      display: none;
+    }
     
     @media (max-width: 1200px) {
       .projects-grid {
@@ -27,15 +75,43 @@ date: 2023/12/03
     .project-item h2 {
       margin-top: 0;
     }
+
+    .project-tag {
+      display: inline-block;
+      margin: 0 0 14px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      color: var(--darkgray);
+      background: var(--highlight);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
   </style>
 </head>
 
 > Software projects that I've built/contributed to.
 
+<div class="project-filters" role="radiogroup" aria-label="Filter projects by category">
+  <input class="project-filter-input" type="radio" name="project-filter" id="filter-all" checked>
+  <label class="project-filter-label" for="filter-all">All</label>
+  <input class="project-filter-input" type="radio" name="project-filter" id="filter-hackathon">
+  <label class="project-filter-label" for="filter-hackathon">Hackathons</label>
+  <input class="project-filter-input" type="radio" name="project-filter" id="filter-course">
+  <label class="project-filter-label" for="filter-course">Courses</label>
+  <input class="project-filter-input" type="radio" name="project-filter" id="filter-club">
+  <label class="project-filter-label" for="filter-club">Clubs &amp; Programs</label>
+  <input class="project-filter-input" type="radio" name="project-filter" id="filter-personal">
+  <label class="project-filter-label" for="filter-personal">Personal</label>
+</div>
+
 <div class="projects-grid">
-<div class="project-item">
+<div class="project-item category-hackathon">
 
 ## Argus: Git for quant researchers, secured by blockchain
+
+<span class="project-tag">Hackathon</span>
 
 <img src="../posts/attachments/argus_block.png" alt="Argus blockchain view" />
 
@@ -62,9 +138,46 @@ Argus brings familiar developer workflows to quantitative research while adding 
 <a target="_blank" href="https://devpost.com/software/argus-fgtsu5">Devpost</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-hackathon">
+
+## 26 Studio: Interactive Vancouver 2026 Kit Viewer
+
+<span class="project-tag">Hackathon</span>
+
+![Vancouver 2026 interactive kit viewer](../posts/attachments/sea_to_sky.jpg)
+
+We built a real-time 3D product experience for a Vancouver FIFA World Cup 2026 host city kit concept. Users can rotate and flip synchronized jersey and shorts models, select hotspots to zoom into design details, and explore procedural textures inspired by Vancouver's cherry blossoms, Coast Mountains, Pacific currents, and Sea to Sky Highway.
+
+The experience uses procedurally generated geometry and HTML5 Canvas textures, physically based materials, animated camera transitions, and responsive mouse and touch controls.
+
+**Stack:** React, Three.js, JavaScript, HTML5 Canvas API, Vite
+
+🏆*Won "Best Use of AI" at Vancouver Made* <br>
+<a target="_blank" href="https://johnsonl111.github.io/interactive-3d-devin-worldcup-model/">Deployment</a>&emsp;
+<a target="_blank" href="https://github.com/JohnsonL111/interactive-3d-devin-worldcup-model">GitHub</a>&emsp;
+
+</div>
+<div class="project-item category-hackathon">
+
+## Study Mog: Multiplayer Pomodoro Accountability
+
+<span class="project-tag">Hackathon</span>
+
+![Study Mog multiplayer lobby](../posts/attachments/devin_1.jpg)
+
+ We built a real-time multiplayer Pomodoro app for the agents of chaos track that turns focus sessions into a social accountability game. Participants can send surprise 60-second "Mog Checks" that challenge friends to submit webcam proof that they are still studying, while an Aura leaderboard and end-of-session MVP recap track performance.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Socket.IO, Node.js, Express, MediaDevices API
+
+🏆*Won 1st Runner-Up at the Devin AI Hackathon* <br>
+<a target="_blank" href="https://github.com/JohnsonL111/yet-another-devin-hack">GitHub</a>&emsp;
+
+</div>
+<div class="project-item category-course">
 
 ## Hope Health Action: Community Based Rehabilitation Application
+
+<span class="project-tag">Course</span>
 
 ![HHA](../posts/attachments/hha_main.png)
 
@@ -76,9 +189,11 @@ Developing the web and mobile application supporting community based rehabilitat
 
 </div>
 
-<div class="project-item">
+<div class="project-item category-personal">
 
 ## BotBouncers: AI Edge Bot Access Control & Observability
+
+<span class="project-tag">Personal</span>
 
 ![ai-edge-bot](../posts/attachments/ai-edge-bot.png)
 ![architecture](../posts/attachments/architectural_diagram.png)
@@ -90,9 +205,11 @@ Stack: AWS CloudFront, Lambda@Edge, S3, SQS, API Gateway, DynamoDB, React, Types
 <a target="_blank" href="https://github.com/JohnsonL111/botbouncer">GitHub</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-club">
 
 ## Reel Youth – Mobile-First Headless Website (Technical Project Lead)
+
+<span class="project-tag">Club &amp; Program</span>
 
 <table>
   <tr>
@@ -115,9 +232,11 @@ Stack: Next.js, Typescript, GraphQL/Apollo, Faust.js, Supabase (postgres + serve
 <a target="_blank" href="https://github.com/SFU-Blueprint/Reel-Youth">GitHub</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-club">
 
 ## MOSAIC - AI Conversational ChatBot (Developer)
+<span class="project-tag">Club &amp; Program</span>
+
 ![ai-chatbot](../posts/attachments/mosaic_pic.png)
 
 As a developer on this project through SFU blueprint my 2 primary contributions were to <br>
@@ -129,9 +248,11 @@ Stack: React, Typescript, Tailwind, Python, Langchain, Neo4J
 <a target="_blank" href="https://mosaicmate.vercel.app/">Deployment</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-club">
 
 ## InvolveMINT
+
+<span class="project-tag">Club &amp; Program</span>
 
 ![involveMINT](../posts/attachments/involvemint.png)
 
@@ -143,9 +264,11 @@ Stack: NestJS, Typescript, NodeJS, Angular, Jest, TypeORM, Docker, Firebase (Aut
 <a target="_blank" href="https://app.involvemint.io/">Deployment</a>
 
 </div>
-<div class="project-item">
+<div class="project-item category-hackathon">
 
 ## WhereU@
+
+<span class="project-tag">Hackathon</span>
 
 ![WhereU@](../posts/attachments/whereUAt.png)
 
@@ -159,9 +282,11 @@ Stack: Java, Spring Boot, React.js, CockroachDB, HTML, CSS, JavaScript, Twilio A
 <a target="_blank" href="https://devpost.com/software/whereu">DevPost</a>
 
 </div>
-<div class="project-item">
+<div class="project-item category-hackathon">
 
 ## Sigma.IO
+
+<span class="project-tag">Hackathon</span>
 
 ![SigmaIO](../posts/attachments/sigmaIO.png)
 
@@ -174,9 +299,11 @@ Stack: ReactJS, AssemblyAI API, HTML, CSS, Javascript, Git
 <a target="_blank" href="https://www.youtube.com/watch?v=9fAU0wKU-hQ">Demo</a>
 
 </div>
-<div class="project-item">
+<div class="project-item category-personal">
 
 ## BookWise
+
+<span class="project-tag">Personal</span>
 
 ![BookWise](../posts/attachments/books_list.png)
 Full-stack web app to track your book collection. Uses mongoose ORM to abstract DB operations. Features toggleable Table/Card view and alerts. More features to come :).
@@ -186,9 +313,11 @@ Stack: Nodejs, Expressjs, MongoDB, Mongoose, ReactJs, Tailwind, Vite, Axios
 <a target="_blank" href="https://github.com/JohnsonL111/book-wise">GitHub</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-course">
 
 ## FindMyPig
+
+<span class="project-tag">Course</span>
 
 ![FindMyPig](../posts/attachments/findMyPig.png)
 
@@ -200,9 +329,11 @@ Stack: Angular, Typescript, HTML, Bootstrap (CSS), Leaflet API, Postman
 <a target="_blank" href="https://findmypig.netlify.app/">Deployment </a>
 
 </div>
-<div class="project-item">
+<div class="project-item category-course">
 
 ## 1-2-Tree: Parenting Made Easy
+
+<span class="project-tag">Course</span>
 
 <div class="image-container">
   <img src="../posts/attachments/parentingMadeEasyPic1.png" alt="Home Screen">
@@ -216,9 +347,11 @@ Stack: Java, Android Studio, SharedPreferences, Git
 <a target="_blank" href="https://github.com/JohnsonL111?page=2&tab=repositories">GitHub</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-course">
 
 ## Bitcoin Minefinder Game
+
+<span class="project-tag">Course</span>
 
 <div>
   <img src="../posts/attachments/mineFinderPic1.png" alt="Home Screen">
@@ -232,9 +365,11 @@ Stack: Java, Android Studio, SharedPreferences, Git
 <a target="_blank" href="https://github.com/JohnsonL111/Totally-Accurate-Bitcoin-Mining-Simulator?tab=readme-ov-filetab=repositories">GitHub</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-course">
 
 ## NutriNote
+
+<span class="project-tag">Course</span>
 
 ![NutriNote](../posts/attachments/consumableItem.png)
 
@@ -245,9 +380,11 @@ Stack: Java, Spring Boot, Swing GUI, REST API, Gson, HTTP Client
 <a target="_blank" href="https://github.com/JohnsonL111/nutri-note">GitHub</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-hackathon">
 
 ## Space Oddysey
+
+<span class="project-tag">Hackathon</span>
 
 ![Space Oddysey](../posts/attachments/spaceOddysey.png)
 
@@ -259,9 +396,11 @@ Stack: HTML, CSS, Javascript, Jquery
 <a target="_blank" href="https://spaceodysseyhackademia.netlify.app/">Deployment</a>&emsp;
 
 </div>
-<div class="project-item">
+<div class="project-item category-course">
 
 ## Memory Card Game
+
+<span class="project-tag">Course</span>
 
 ![Space Oddysey](../posts/attachments/memoryCardGame.png)
 

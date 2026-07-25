@@ -15,8 +15,9 @@ date: 2024/09/12
 
 ## Technical Experience
 
-> **Software Engineer I @ Motorola Solutions** <br> 
-> • Returning as a full-time engineer on the DevEx/Enablement Tools team for the fixed-video org.<br>
+> **Software Engineer I @ Motorola Solutions** (May 2026-Present) <br> 
+> • Continuing as an engineer on the Enablement Tools team for the fixed-video org supporting the E2E CI Regression environment and Camera Simulation Platform.<br>
+
 
 ---
 

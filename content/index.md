@@ -3,15 +3,11 @@ title: 🏡 Home
 date: 2023/12/13
 ---
 
-Hi! I’m **Johnson**, a Computer Science student with a Philosophy minor at **Simon Fraser University**.
+Hi! I'm **Johnson**, an SFU alumnus with a Bachelor's degree in Computer Science and a minor in Philosophy.
 
-I focus on **full-stack development (react/typescript/node particularly)** and **platform engineering** (DevOps, cloud, and infrastructure), and I enjoy working on scalable systems.
+I currently work as a Software Engineer at **Motorola Solutions** in Vancouver, BC, building video surveillance software. During university, I had the opportunity to intern at **HP**, **Motorola Solutions**, **ICBC**, **Powerex**, and **Peloton Technologies**.
 
-I’ve previously worked at **HP**, **Motorola Solutions**, **ICBC**, **Powerex**, and **Peloton Technologies**, contributing to projects spanning site reliability and compliance, CI/CD and cloud automation, developer tooling, data platforms, and full-stack SaaS development.
-
-I’m particularly interested in how **philosophy and systems thinking** shape better software and better teams.
-
-When I’m not coding, you’ll usually find me paddling, reading, or trying to make progress on my ever-growing **Steam Deck** backlog.
+Outside of work, some of my current side quests include weightlifting, music mixing and production, and exploring different types of tea.
 
 Table of Contents:
 
