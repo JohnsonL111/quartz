@@ -17,7 +17,13 @@ date: 2024/09/12
 
 > **Software Engineer I @ Motorola Solutions** (May 2026-Present) <br> 
 > • Continuing as an engineer on the Enablement Tools team for the fixed-video org supporting the E2E CI Regression environment and Camera Simulation Platform.<br>
-
+<details>
+  <summary>More Details</summary>
+    <p>• Led the migration of the on-premises nightly E2E CI regression environment to a new OS, validating compatibility through regression testing and automating deployment with Ansible, enabling scaling from 1 to 4 Docker runners and reducing pipeline runtime from ~3 to ~2 hours for automated camera validation against the latest Unity bundle, accelerating developer feedback.</p>
+    <p>• Resolved Active Directory synchronization issues by updating Portainer configuration and AD permissions, ensuring reliable automatic user provisioning for the camera simulation platform.</p>
+    <p>• Leading a proof of concept to extend the camera simulation platform to Alta cameras, with the potential to save hundreds of thousands of dollars by reducing reliance on physical camera hardware for testing.</p>
+    <p>• Upcoming: Leading the migration of the camera simulation platform from on-premises infrastructure to Google Cloud Platform (GCP) as part of the company's cloud modernization initiative.</p>
+</details>
 
 ---
 
